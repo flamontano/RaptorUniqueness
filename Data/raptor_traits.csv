@@ -1,0 +1,550 @@
+,Order,Family,Genus,Latin,English_name,Beak.Length_Culmen,Beak.Width,Beak.Depth,Tarsus.Length,Wing.Length,Secondary1,Tail.Length,Diet.Inv,Diet.Vend,Diet.Vect,Diet.Vfish,Diet.Vunk,Diet.Scav,Diet.Fruit,Diet.PlantO
+Accipiter_albogularis,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter albogularis,Pied Goshawk,27.7,10.6,14.7,62,235.2,159.5,169,0,80,20,0,0,0,0,0
+Accipiter_badius,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter badius,Shikra,20.6,8.8,11.6,43,186.7,127.4,140.6,10,30,60,0,0,0,0,0
+Accipiter_bicolor,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter bicolor,Bicolored Hawk,25,8.6,12.7,58.1,229.6,174.8,186.3,0,100,0,0,0,0,0,0
+Accipiter_brachyurus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter brachyurus,New Britain Sparrowhawk,22.5,8.9,11.9,61.2,202.2,138.1,140.8,0,100,0,0,0,0,0,0
+Accipiter_brevipes,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter brevipes,Levant Sparrowhawk,21.1,8.7,11.1,46.4,217.6,129.9,153.5,40,20,40,0,0,0,0,0
+Accipiter_butleri,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter butleri,Nicobar Sparrowhawk,20,6.6,12,48.7,166,123.1,127,10,0,90,0,0,0,0,0
+Accipiter_castanilius,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter castanilius,Chestnut-flanked Sparrowhawk,20.5,8.3,10.9,52.6,163.5,123.1,135.4,10,80,10,0,0,0,0,0
+Accipiter_cirrocephalus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter cirrocephalus,Collared Sparrowhawk,19.2,7.7,9.6,60.3,213,133.7,155.4,10,80,10,0,0,0,0,0
+Accipiter_collaris,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter collaris,Semi-collared Hawk,20,8.6,11,43.6,165.9,115.2,125,0,80,0,0,20,0,0,0
+Accipiter_cooperii,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter cooperii,Cooper's Hawk,25.4,8.6,13.2,62,241.2,163.5,188.4,0,90,10,0,0,0,0,0
+Accipiter_erythrauchen,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter erythrauchen,Rufous-necked Sparrowhawk,21.1,8.6,11.2,59.5,191.2,132.4,154.8,0,100,0,0,0,0,0,0
+Accipiter_erythropus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter erythropus,Red-Legged Sparrowhawk,17.6,7.2,9.6,43,154.6,110.1,104.4,40,60,0,0,0,0,0,0
+Accipiter_fasciatus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter fasciatus,Brown Goshawk,28.5,11.2,15.2,71.9,269.9,167.3,206,20,40,30,0,0,10,0,0
+Accipiter_francesiae,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter francesiae,Frances's Sparrowhawk,20.2,8.7,10.7,48.1,155.8,112.8,127.5,60,20,20,0,0,0,0,0
+Accipiter_gentilis,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter gentilis,Northern Goshawk,33.7,11.6,18,67.3,337.6,215,241.1,0,90,10,0,0,0,0,0
+Accipiter_griseiceps,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter griseiceps,Sulawesi Goshawk,24.1,8.8,12.4,52,187.2,137.3,141.2,20,40,40,0,0,0,0,0
+Accipiter_gularis,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter gularis,Japanese Sparrowhawk,23.3,6.6,9.1,43.6,162.6,109,106.4,10,80,10,0,0,0,0,0
+Accipiter_gundlachi,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter gundlachi,Gundlach's Hawk,26,8.3,16.3,71.3,228,166.2,223,0,100,0,0,0,0,0,0
+Accipiter_haplochrous,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter haplochrous,White-bellied Goshawk,23.7,9.6,13.2,58.9,227.8,153.2,155,30,20,50,0,0,0,0,0
+Accipiter_henicogrammus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter henicogrammus,Moluccan Goshawk,27.9,10,13.6,65.1,230.2,160.5,190,30,40,30,0,0,0,0,0
+Accipiter_henstii,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter henstii,Henst's Goshawk,32.6,11.8,17.2,75,290.5,212.5,245,0,100,0,0,0,0,0,0
+Accipiter_hiogaster,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter hiogaster,Variable Goshawk,26,9.4,13.9,51.1,197.2,136.5,136.5,NA,NA,NA,NA,NA,NA,NA,NA
+Accipiter_imitator,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter imitator,Imitator Goshawk,26.4,9.1,12.2,49.6,200,140,161,40,0,60,0,0,0,0,0
+Accipiter_luteoschistaceus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter luteoschistaceus,Slaty-backed Goshawk,26.4,7.8,11.9,51.5,188,131,146,40,0,60,0,0,0,0,0
+Accipiter_madagascariensis,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter madagascariensis,Madagascar Sparrowhawk,19.7,7.4,9.4,58,190.8,136.2,149.5,20,60,20,0,0,0,0,0
+Accipiter_melanochlamys,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter melanochlamys,Black-mantled Goshawk,25.9,11,13.9,62.7,228.6,156.2,164.8,10,80,10,0,0,0,0,0
+Accipiter_melanoleucus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter melanoleucus,Black Sparrowhawk,29.6,10.3,16.3,75.8,302.8,200.8,219.4,0,90,10,0,0,0,0,0
+Accipiter_meyerianus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter meyerianus,Meyer's Goshawk,35,12.6,18.6,75.4,309.5,207.5,200,0,100,0,0,0,0,0,0
+Accipiter_minullus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter minullus,Little Sparrowhawk,16.5,6.6,8.8,41.3,150.4,105.8,105.2,20,60,20,0,0,0,0,0
+Accipiter_nanus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter nanus,Dwarf Sparrowhawk,17.6,7.6,10.1,46.6,152.4,107.5,109,70,30,0,0,0,0,0,0
+Accipiter_nisus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter nisus,Eurasian Sparrowhawk,19.6,8.4,10,53.6,207.4,134.3,155.5,0,100,0,0,0,0,0,0
+Accipiter_novaehollandiae,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter novaehollandiae,Grey Goshawk,31.6,11.5,16.5,69,261.9,188.3,183.6,30,40,30,0,0,0,0,0
+Accipiter_ovampensis,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter ovampensis,Ovambo Sparrowhawk,20.5,7.5,10.3,49.4,222.4,138.5,155,0,100,0,0,0,0,0,0
+Accipiter_poliocephalus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter poliocephalus,Grey-headed Goshawk,25,10.1,13.7,60.3,210.5,142.8,157.2,20,0,80,0,0,0,0,0
+Accipiter_poliogaster,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter poliogaster,Grey-bellied Goshawk,27.7,8,13.2,52.4,240.4,172.2,174.6,0,0,0,0,100,0,0,0
+Accipiter_princeps,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter princeps,New Britain Goshawk,33.6,13.8,17.8,68,266.3,188.5,192.3,50,0,0,0,50,0,0,0
+Accipiter_rhodogaster,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter rhodogaster,Vinous-breasted Sparrowhawk,20.5,7.9,10.8,53.4,172.6,122.4,125.8,20,60,20,0,0,0,0,0
+Accipiter_rufitorques,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter rufitorques,Fiji Goshawk,26,10.3,13.7,59.2,217.6,142,146,20,80,0,0,0,0,0,0
+Accipiter_rufiventris,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter rufiventris,Rufous-breasted Sparrowhawk,20.3,7.8,10,54.2,218.6,134.3,165.8,10,80,10,0,0,0,0,0
+Accipiter_soloensis,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter soloensis,Chinese Sparrowhawk,25.6,8.6,9.7,39.5,187.8,114.4,123.4,10,20,70,0,0,0,0,0
+Accipiter_striatus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter striatus,Sharp-shinned Hawk,18.3,7.3,9.4,49.9,181.6,126.8,134.3,0,100,0,0,0,0,0,0
+Accipiter_superciliosus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter superciliosus,Tiny Hawk,19.4,6.7,10.4,37.4,146.4,105.2,104.6,0,80,20,0,0,0,0,0
+Accipiter_sylvestris,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter sylvestris,Lesser Sundas Goshawk,26,9.2,13.1,54.5,206.4,140.4,146.9,NA,NA,NA,NA,NA,NA,NA,NA
+Accipiter_tachiro,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter tachiro,African Goshawk,18,9.1,12.4,65.7,217.4,161.8,175,10,70,20,0,0,0,0,0
+Accipiter_toussenelii,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter toussenelii,Red-chested Goshawk,24.4,9.2,11.9,62.1,189,149.6,157.2,10,70,20,0,0,0,0,0
+Accipiter_trinotatus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter trinotatus,Spot-tailed Goshawk,20.4,8.6,11.2,48.2,162.9,115,128.8,20,10,70,0,0,0,0,0
+Accipiter_trivirgatus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter trivirgatus,Crested Goshawk,31.7,10.5,14.1,56.9,216.2,166.1,171.9,20,60,20,0,0,0,0,0
+Accipiter_virgatus,Accipitriformes,ACCIPITRIDAE,Accipiter,Accipiter virgatus,Besra,21.2,7.6,10.2,49.8,167.7,123.1,123.9,20,60,20,0,0,0,0,0
+Aegypius_monachus,Accipitriformes,ACCIPITRIDAE,Aegypius,Aegypius monachus,Cinereous Vulture,87.8,27.9,39.8,134.2,734.2,432,371,0,0,0,0,0,100,0,0
+Aquila_adalberti,Accipitriformes,ACCIPITRIDAE,Aquila,Aquila adalberti,Spanish Imperial Eagle,61.2,21.1,31,98.4,592.5,357.5,297,0,90,10,0,0,0,0,0
+Aquila_africana,Accipitriformes,ACCIPITRIDAE,Aquila,Aquila africana,Cassin's Hawk-eagle,39.4,12.8,20.4,76.6,342.2,248.4,277.8,0,100,0,0,0,0,0,0
+Aquila_audax,Accipitriformes,ACCIPITRIDAE,Aquila,Aquila audax,Wedge-tailed Eagle,60.5,19.6,31.2,104,617.7,373.2,387,0,50,30,0,0,20,0,0
+Aquila_chrysaetos,Accipitriformes,ACCIPITRIDAE,Aquila,Aquila chrysaetos,Golden Eagle,56.8,18.5,28.4,101.4,603.1,381.9,307.1,0,80,10,0,0,10,0,0
+Aquila_fasciata,Accipitriformes,ACCIPITRIDAE,Aquila,Aquila fasciata,Bonelli's Eagle,45.7,16.2,23.7,93.2,486.8,305,260,0,90,10,0,0,0,0,0
+Aquila_gurneyi,Accipitriformes,ACCIPITRIDAE,Aquila,Aquila gurneyi,Gurney's Eagle,55.4,16.6,21.9,99.4,544.5,360.8,365.5,0,100,0,0,0,0,0,0
+Aquila_heliaca,Accipitriformes,ACCIPITRIDAE,Aquila,Aquila heliaca,Eastern Imperial Eagle,59,19.8,28.4,93.7,582.2,354,316.2,0,70,20,0,0,10,0,0
+Aquila_nipalensis,Accipitriformes,ACCIPITRIDAE,Aquila,Aquila nipalensis,Steppe Eagle,54.1,17.7,25.2,95.1,559.6,332,271.4,0,90,0,0,0,10,0,0
+Aquila_rapax,Accipitriformes,ACCIPITRIDAE,Aquila,Aquila rapax,Tawny Eagle,54,16.8,24.3,84.3,506.6,310,242.4,10,50,20,10,0,10,0,0
+Aquila_spilogaster,Accipitriformes,ACCIPITRIDAE,Aquila,Aquila spilogaster,African Hawk-eagle,44,14.4,22.6,91.1,427.6,278.8,254.8,0,90,10,0,0,0,0,0
+Aquila_verreauxii,Accipitriformes,ACCIPITRIDAE,Aquila,Aquila verreauxii,Verreaux's Eagle,58.2,18.3,27.6,117.4,590.2,389.8,403.5,0,90,10,0,0,0,0,0
+Aviceda_cuculoides,Accipitriformes,ACCIPITRIDAE,Aviceda,Aviceda cuculoides,African Cuckoo-hawk,25.5,10.6,13.9,33,264.6,153.5,154.2,40,10,30,20,0,0,0,0
+Aviceda_jerdoni,Accipitriformes,ACCIPITRIDAE,Aviceda,Aviceda jerdoni,Jerdon's Baza,45.5,12.9,15.9,34.7,302.8,222.9,211,70,0,30,0,0,0,0,0
+Aviceda_leuphotes,Accipitriformes,ACCIPITRIDAE,Aviceda,Aviceda leuphotes,Black Baza,24.6,10.2,12.5,25,230.6,150.2,124,70,10,20,0,0,0,0,0
+Aviceda_madagascariensis,Accipitriformes,ACCIPITRIDAE,Aviceda,Aviceda madagascariensis,Madagascar Cuckoo-hawk,28.6,11.6,16.2,38.7,314.2,207.5,169.2,30,0,70,0,0,0,0,0
+Aviceda_subcristata,Accipitriformes,ACCIPITRIDAE,Aviceda,Aviceda subcristata,Pacific Baza,28.3,11.6,14.7,36.3,336.6,200,202,40,10,40,0,0,0,10,0
+Busarellus_nigricollis,Accipitriformes,ACCIPITRIDAE,Busarellus,Busarellus nigricollis,Black-collared Hawk,40.8,12.5,17.6,76.1,393.5,283.1,199.8,10,0,0,90,0,0,0,0
+Butastur_indicus,Accipitriformes,ACCIPITRIDAE,Butastur,Butastur indicus,Grey-faced Buzzard,40.5,10.4,14.5,53.4,327.6,175.9,191.8,0,50,50,0,0,0,0,0
+Butastur_liventer,Accipitriformes,ACCIPITRIDAE,Butastur,Butastur liventer,Rufous-winged Buzzard,31.3,10.5,14,61.7,275,159.4,149,30,40,30,0,0,0,0,0
+Butastur_rufipennis,Accipitriformes,ACCIPITRIDAE,Butastur,Butastur rufipennis,Grasshopper Buzzard,28.7,10.3,12.3,58.4,311.2,170,181.4,80,10,10,0,0,0,0,0
+Butastur_teesa,Accipitriformes,ACCIPITRIDAE,Butastur,Butastur teesa,White-eyed Buzzard,30.6,10.7,13.8,60.4,295.4,165,191,30,30,40,0,0,0,0,0
+Buteo_albigula,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo albigula,White-throated Hawk,27.9,11.4,15.2,57.9,291,181.4,182.2,0,100,0,0,0,0,0,0
+Buteo_albonotatus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo albonotatus,Zone-tailed Hawk,35.1,12.7,16.9,70.4,398,236.7,217,0,70,30,0,0,0,0,0
+Buteo_augur,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo augur,Augur Buzzard,42.7,13.3,18.9,89.3,410.2,283.6,188.5,10,40,40,0,0,10,0,0
+Buteo_auguralis,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo auguralis,Red-necked Buzzard,33.3,11.2,15.6,73.6,356.2,223.4,192.6,40,30,30,0,0,0,0,0
+Buteo_brachypterus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo brachypterus,Madagascar Buzzard,33.6,11.5,16.4,63.1,315.4,215.2,184.4,10,30,60,0,0,0,0,0
+Buteo_brachyurus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo brachyurus,Short-tailed Hawk,31.1,10.4,14.9,53.8,307.6,213.3,171,0,100,0,0,0,0,0,0
+Buteo_buteo,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo buteo,Eurasian Buzzard,35.9,12.6,16.6,75.8,382.9,236.9,214.4,0,90,10,0,0,0,0,0
+Buteo_galapagoensis,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo galapagoensis,Galapagos Hawk,40.9,13.9,19.3,77,402.6,229.2,235.2,10,50,30,0,0,10,0,0
+Buteo_hemilasius,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo hemilasius,Upland Buzzard,40.7,14.7,18.8,80,467.2,290.2,251.4,10,80,10,0,0,0,0,0
+Buteo_jamaicensis,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo jamaicensis,Red-tailed Hawk,37.6,14.4,20.2,80.9,402.8,270.8,212.2,10,60,30,0,0,0,0,0
+Buteo_japonicus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo japonicus,Japanese Buzzard,34.5,11.7,15.8,77,395,232,212,NA,NA,NA,NA,NA,NA,NA,NA
+Buteo_lagopus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo lagopus,Rough-legged Buzzard,34.5,11.7,15.9,72.3,428.3,248.5,240,10,80,0,10,0,0,0,0
+Buteo_lineatus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo lineatus,Red-shouldered Hawk,33.1,11.8,16.3,74.1,319,212.8,172.8,20,40,40,0,0,0,0,0
+Buteo_nitidus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo nitidus,Grey-lined Hawk,30.3,11.2,15.3,64.6,247.3,189.5,170.6,20,20,60,0,0,0,0,0
+Buteo_oreophilus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo oreophilus,Mountain Buzzard,35.1,11.4,15.3,70.9,346,221.3,182.5,10,60,30,0,0,0,0,0
+Buteo_plagiatus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo plagiatus,Grey Hawk,34.1,11.4,17.2,78.7,267.9,186.3,162,NA,NA,NA,NA,NA,NA,NA,NA
+Buteo_platypterus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo platypterus,Broad-winged Hawk,28.3,11.1,14.4,53.4,277.7,177.4,178.8,10,70,20,0,0,0,0,0
+Buteo_refectus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo refectus,Himalayan Buzzard,33.4,11.8,16.1,64.9,346,220.3,173.3,NA,NA,NA,NA,NA,NA,NA,NA
+Buteo_regalis,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo regalis,Ferruginous Hawk,41.3,18.3,20.2,81.6,431,254.5,240.6,0,100,0,0,0,0,0,0
+Buteo_ridgwayi,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo ridgwayi,Ridgway's Hawk,26.5,9.8,14.2,65.8,222.5,148.6,144.2,0,60,40,0,0,0,0,0
+Buteo_rufinus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo rufinus,Long-legged Buzzard,41.6,14,19.8,86.1,447.5,266.8,244.5,0,80,20,0,0,0,0,0
+Buteo_rufofuscus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo rufofuscus,Jackal Buzzard,39.8,13.4,17.9,84.9,413.2,275.9,190.4,10,40,40,0,0,10,0,0
+Buteo_socotraensis,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo socotraensis,Socotra Buzzard,37.8,14.1,18,84,323,207.2,176.7,NA,NA,NA,NA,NA,NA,NA,NA
+Buteo_solitarius,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo solitarius,Hawaiian Hawk,31.8,13.2,15.9,72.7,270.2,178,160.5,30,70,0,0,0,0,0,0
+Buteo_swainsoni,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo swainsoni,Swainson's Hawk,35.3,13.6,16.6,60.7,383.7,201.8,193.6,30,60,10,0,0,0,0,0
+Buteo_trizonatus,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo trizonatus,Forest Buzzard,34,11.4,15.1,67.6,345.8,214.2,184,NA,NA,NA,NA,NA,NA,NA,NA
+Buteo_ventralis,Accipitriformes,ACCIPITRIDAE,Buteo,Buteo ventralis,Rufous-tailed Hawk,37.2,13,19,76.8,359,240.6,221.5,0,100,0,0,0,0,0,0
+Buteogallus_aequinoctialis,Accipitriformes,ACCIPITRIDAE,Buteogallus,Buteogallus aequinoctialis,Rufous Crab-hawk,36.1,11.2,16,73.3,316.2,237.5,147.2,100,0,0,0,0,0,0,0
+Buteogallus_anthracinus,Accipitriformes,ACCIPITRIDAE,Buteogallus,Buteogallus anthracinus,Common Black Hawk,39.6,12.9,17.5,78.6,355.2,239.5,206.2,30,0,30,40,0,0,0,0
+Buteogallus_coronatus,Accipitriformes,ACCIPITRIDAE,Buteogallus,Buteogallus coronatus,Crowned Solitary Eagle,60.9,15.8,29.7,119.4,533,361.2,262.2,0,70,20,0,0,10,0,0
+Buteogallus_gundlachii,Accipitriformes,ACCIPITRIDAE,Buteogallus,Buteogallus gundlachii,Cuban Black Hawk,39.6,12.3,17.3,85.2,348.1,235.6,190,30,0,30,40,0,0,0,0
+Buteogallus_lacernulatus,Accipitriformes,ACCIPITRIDAE,Buteogallus,Buteogallus lacernulatus,White-necked Hawk,34.8,11.7,15.5,77.2,293.8,207.2,157,30,30,40,0,0,0,0,0
+Buteogallus_meridionalis,Accipitriformes,ACCIPITRIDAE,Buteogallus,Buteogallus meridionalis,Savanna Hawk,36,11.6,18.1,93.4,416.4,287.4,217.4,20,30,30,20,0,0,0,0
+Buteogallus_schistaceus,Accipitriformes,ACCIPITRIDAE,Buteogallus,Buteogallus schistaceus,Slate-colored Hawk,35.5,12.6,18.1,75.7,272,204.5,173.2,0,30,70,0,0,0,0,0
+Buteogallus_solitarius,Accipitriformes,ACCIPITRIDAE,Buteogallus,Buteogallus solitarius,Black Solitary Eagle,58.6,18.7,28,120.4,526.2,370.9,245.3,0,10,90,0,0,0,0,0
+Buteogallus_urubitinga,Accipitriformes,ACCIPITRIDAE,Buteogallus,Buteogallus urubitinga,Great Black Hawk,46,14.6,21.9,118.4,399.7,309.4,255.6,20,20,30,10,0,10,10,0
+Chelictinia_riocourii,Accipitriformes,ACCIPITRIDAE,Chelictinia,Chelictinia riocourii,Scissor-tailed Kite,17.7,8.6,9.1,28.2,240.2,108.5,192,60,20,20,0,0,0,0,0
+Chondrohierax_uncinatus,Accipitriformes,ACCIPITRIDAE,Chondrohierax,Chondrohierax uncinatus,Hook-billed Kite,36.2,12.4,18.4,33.6,285.3,224.2,197.6,80,0,20,0,0,0,0,0
+Chondrohierax_wilsonii,Accipitriformes,ACCIPITRIDAE,Chondrohierax,Chondrohierax wilsonii,Cuban Kite,38.4,11.8,20.6,23,244,180.5,185,80,0,20,0,0,0,0,0
+Circaetus_beaudouini,Accipitriformes,ACCIPITRIDAE,Circaetus,Circaetus beaudouini,Beaudouin's Snake-eagle,45.6,15.1,22.7,79.3,501.8,280.5,259.6,0,0,80,0,20,0,0,0
+Circaetus_cinerascens,Accipitriformes,ACCIPITRIDAE,Circaetus,Circaetus cinerascens,Western Banded Snake-eagle,42.2,13.5,21.7,68.1,379.5,264.2,220.5,10,10,70,10,0,0,0,0
+Circaetus_cinereus,Accipitriformes,ACCIPITRIDAE,Circaetus,Circaetus cinereus,Brown Snake-eagle,54.7,15.8,28.6,94.3,517.8,295.2,254,0,10,90,0,0,0,0,0
+Circaetus_fasciolatus,Accipitriformes,ACCIPITRIDAE,Circaetus,Circaetus fasciolatus,Southern Banded Snake-eagle,39.8,13.9,23,71.7,362.2,260.8,227,10,20,70,0,0,0,0,0
+Circaetus_gallicus,Accipitriformes,ACCIPITRIDAE,Circaetus,Circaetus gallicus,Short-toed Snake-eagle,47,15.5,24.6,90.9,537,320.2,280.4,0,10,90,0,0,0,0,0
+Circaetus_pectoralis,Accipitriformes,ACCIPITRIDAE,Circaetus,Circaetus pectoralis,Black-chested Snake-eagle,46.7,14.6,23.1,83.8,527.8,303.5,259.4,10,20,60,10,0,0,0,0
+Circus_aeruginosus,Accipitriformes,ACCIPITRIDAE,Circus,Circus aeruginosus,Western Marsh-harrier,37.3,11.9,16.2,79.3,405.7,221.2,233.9,10,60,20,10,0,0,0,0
+Circus_approximans,Accipitriformes,ACCIPITRIDAE,Circus,Circus approximans,Swamp Harrier,39.5,11.9,16.4,89.3,406.9,225,233.2,10,50,20,10,0,10,0,0
+Circus_assimilis,Accipitriformes,ACCIPITRIDAE,Circus,Circus assimilis,Spotted Harrier,36.1,11.2,16.2,95.2,421.6,234,271.1,0,70,30,0,0,0,0,0
+Circus_buffoni,Accipitriformes,ACCIPITRIDAE,Circus,Circus buffoni,Long-winged Harrier,41.4,12.7,16.6,85.3,436,226,265,0,50,50,0,0,0,0,0
+Circus_cinereus,Accipitriformes,ACCIPITRIDAE,Circus,Circus cinereus,Cinereous Harrier,29.8,9.3,12.9,67.5,344.5,194.7,240.4,10,60,30,0,0,0,0,0
+Circus_cyaneus,Accipitriformes,ACCIPITRIDAE,Circus,Circus cyaneus,Hen Harrier,30.1,9.7,13,72.1,352.4,197.1,131.7,NA,NA,NA,NA,NA,NA,NA,NA
+Circus_hudsonius,Accipitriformes,ACCIPITRIDAE,Circus,Circus hudsonius,Northern Harrier,31.1,10.1,13.2,82,360.9,199.8,212.9,10,70,10,0,0,10,0,0
+Circus_macrosceles,Accipitriformes,ACCIPITRIDAE,Circus,Circus macrosceles,Madagascar Marsh-harrier,37.4,11.6,16.1,92.2,420.9,220.8,242.7,10,50,40,0,0,0,0,0
+Circus_macrourus,Accipitriformes,ACCIPITRIDAE,Circus,Circus macrourus,Pallid Harrier,29.5,9.7,12.7,68,351.2,168.4,226.6,20,70,10,0,0,0,0,0
+Circus_maillardi,Accipitriformes,ACCIPITRIDAE,Circus,Circus maillardi,Reunion Marsh-harrier,37.4,11.1,16.6,83.5,353.2,214.8,229,10,50,40,0,0,0,0,0
+Circus_maurus,Accipitriformes,ACCIPITRIDAE,Circus,Circus maurus,Black Harrier,31.7,10.6,13.5,71.9,352.4,203.5,249.2,10,80,10,0,0,0,0,0
+Circus_melanoleucos,Accipitriformes,ACCIPITRIDAE,Circus,Circus melanoleucos,Pied Harrier,29.9,9.4,13.1,72.5,352.6,176.5,214,10,80,10,0,0,0,0,0
+Circus_pygargus,Accipitriformes,ACCIPITRIDAE,Circus,Circus pygargus,Montagu's Harrier,26.1,8.6,11.2,62,362.3,173.3,224.8,10,80,10,0,0,0,0,0
+Circus_ranivorus,Accipitriformes,ACCIPITRIDAE,Circus,Circus ranivorus,African Marsh-harrier,35.4,11.1,14.1,84.5,363.2,207.5,226.8,10,60,20,0,0,10,0,0
+Circus_spilonotus,Accipitriformes,ACCIPITRIDAE,Circus,Circus spilonotus,Eastern Marsh-harrier,38.3,12.1,15.9,86.3,407.2,213,241.2,0,80,10,10,0,0,0,0
+Circus_spilothorax,Accipitriformes,ACCIPITRIDAE,Circus,Circus spilothorax,Papuan Harrier,35.3,11.9,14.4,89.1,377.4,244.4,215.6,NA,NA,NA,NA,NA,NA,NA,NA
+Clanga_clanga,Accipitriformes,ACCIPITRIDAE,Clanga,Clanga clanga,Greater Spotted Eagle,50.2,15.6,23.2,96.8,510.6,314.8,261.4,10,30,30,20,0,10,0,0
+Clanga_hastata,Accipitriformes,ACCIPITRIDAE,Clanga,Clanga hastata,Indian Spotted Eagle,44.4,14,18.9,90.2,456.5,264.8,208.5,20,40,40,0,0,0,0,0
+Clanga_pomarina,Accipitriformes,ACCIPITRIDAE,Clanga,Clanga pomarina,Lesser Spotted Eagle,47.3,13.4,19.5,91.6,459.3,271,213,20,40,40,0,0,0,0,0
+Cryptoleucopteryx_plumbea,Accipitriformes,ACCIPITRIDAE,Cryptoleucopteryx,Cryptoleucopteryx plumbea,Plumbeous Hawk,32.1,11.2,16.7,58.9,238,164.8,145.4,NA,NA,NA,NA,NA,NA,NA,NA
+Dryotriorchis_spectabilis,Accipitriformes,ACCIPITRIDAE,Dryotriorchis,Dryotriorchis spectabilis,Congo Serpent-eagle,36.5,13,21.3,65.8,290.5,213.5,240.2,0,0,100,0,0,0,0,0
+Elanoides_forficatus,Accipitriformes,ACCIPITRIDAE,Elanoides,Elanoides forficatus,Swallow-tailed Kite,29.4,10.2,12.3,33.5,412.8,214.7,279.2,70,0,20,0,0,0,10,0
+Elanus_axillaris,Accipitriformes,ACCIPITRIDAE,Elanus,Elanus axillaris,Black-shouldered Kite,25.3,9,11.4,38.8,288.4,135.2,136.8,10,80,10,0,0,0,0,0
+Elanus_caeruleus,Accipitriformes,ACCIPITRIDAE,Elanus,Elanus caeruleus,Black-winged Kite,30.9,9.2,11.3,32.1,286.3,160.2,127.7,20,60,20,0,0,0,0,0
+Elanus_leucurus,Accipitriformes,ACCIPITRIDAE,Elanus,Elanus leucurus,White-tailed Kite,25.3,8.8,10.9,31.8,294,168.4,170.3,0,90,10,0,0,0,0,0
+Elanus_scriptus,Accipitriformes,ACCIPITRIDAE,Elanus,Elanus scriptus,Letter-winged Kite,26.2,11.8,12,38.3,302.2,153.5,139.8,10,90,0,0,0,0,0,0
+Erythrotriorchis_buergersi,Accipitriformes,ACCIPITRIDAE,Erythrotriorchis,Erythrotriorchis buergersi,Chestnut-shouldered Goshawk,33.7,12.8,18.2,75.2,310.7,205.2,238.7,0,100,0,0,0,0,0,0
+Erythrotriorchis_radiatus,Accipitriformes,ACCIPITRIDAE,Erythrotriorchis,Erythrotriorchis radiatus,Red Goshawk,34.8,11.9,17.4,74.5,387.2,225.5,250,10,80,10,0,0,0,0,0
+Eutriorchis_astur,Accipitriformes,ACCIPITRIDAE,Eutriorchis,Eutriorchis astur,Madagascar Serpent-eagle,40.3,11.6,19.5,84,318.5,244.3,287.5,0,20,80,0,0,0,0,0
+Gampsonyx_swainsonii,Accipitriformes,ACCIPITRIDAE,Gampsonyx,Gampsonyx swainsonii,Pearl Kite,16.2,7.1,8.4,26,147.7,96.8,97.9,10,0,90,0,0,0,0,0
+Geranoaetus_albicaudatus,Accipitriformes,ACCIPITRIDAE,Geranoaetus,Geranoaetus albicaudatus,White-tailed Hawk,37.4,13.8,16.4,87.3,427,279,199,10,40,40,0,0,10,0,0
+Geranoaetus_melanoleucus,Accipitriformes,ACCIPITRIDAE,Geranoaetus,Geranoaetus melanoleucus,Black-chested Buzzard-eagle,50.5,15.4,23,98.2,496.2,313.5,210.5,0,90,10,0,0,0,0,0
+Geranoaetus_polyosoma,Accipitriformes,ACCIPITRIDAE,Geranoaetus,Geranoaetus polyosoma,Variable Hawk,36.3,13,18.3,83.4,402,249.8,192.8,0,100,0,0,0,0,0,0
+Geranospiza_caerulescens,Accipitriformes,ACCIPITRIDAE,Geranospiza,Geranospiza caerulescens,Crane Hawk,25.9,9.6,12.9,71.7,269.1,205.4,211.4,30,30,40,0,0,0,0,0
+Gypaetus_barbatus,Accipitriformes,ACCIPITRIDAE,Gypaetus,Gypaetus barbatus,Bearded Vulture,78.2,20.8,28.1,103.6,760.6,378,468,0,0,0,0,0,100,0,0
+Gypohierax_angolensis,Accipitriformes,ACCIPITRIDAE,Gypohierax,Gypohierax angolensis,Palm-nut Vulture,57.5,14.1,23.3,77.3,419,296.6,196.8,10,0,10,10,0,0,60,10
+Gyps_africanus,Accipitriformes,ACCIPITRIDAE,Gyps,Gyps africanus,White-backed Vulture,61.3,20.5,30.5,95.7,578.4,349.2,224.6,0,0,0,0,0,100,0,0
+Gyps_bengalensis,Accipitriformes,ACCIPITRIDAE,Gyps,Gyps bengalensis,White-rumped Vulture,64.6,22.7,32.5,99.1,551.6,337.8,213.8,0,0,0,0,0,100,0,0
+Gyps_coprotheres,Accipitriformes,ACCIPITRIDAE,Gyps,Gyps coprotheres,Cape Vulture,81.2,24.9,36.5,104.2,687.2,421.2,269.4,0,0,0,0,0,100,0,0
+Gyps_fulvus,Accipitriformes,ACCIPITRIDAE,Gyps,Gyps fulvus,Griffon Vulture,78.8,23.8,33.8,109.9,687.2,415.8,291.2,0,0,0,0,0,100,0,0
+Gyps_himalayensis,Accipitriformes,ACCIPITRIDAE,Gyps,Gyps himalayensis,Himalayan Griffon,82.5,23.5,34,115.6,759.8,490.2,339,0,0,0,0,0,100,0,0
+Gyps_indicus,Accipitriformes,ACCIPITRIDAE,Gyps,Gyps indicus,Indian Vulture,71.3,20.5,29.7,99.7,585.6,360,235.2,0,0,0,0,0,100,0,0
+Gyps_rueppelli,Accipitriformes,ACCIPITRIDAE,Gyps,Gyps rueppelli,Ruppell's Vulture,77.9,23,32.5,105.7,627.8,391.8,235.8,0,0,0,0,0,100,0,0
+Gyps_tenuirostris,Accipitriformes,ACCIPITRIDAE,Gyps,Gyps tenuirostris,Slender-billed Vulture,75.6,20,29.1,104.1,592.2,371.8,217.2,0,0,0,0,0,100,0,0
+Haliaeetus_albicilla,Accipitriformes,ACCIPITRIDAE,Haliaeetus,Haliaeetus albicilla,White-tailed Sea-eagle,74.1,22.9,33.9,95,599.5,370.9,294.2,0,30,0,40,0,30,0,0
+Haliaeetus_leucocephalus,Accipitriformes,ACCIPITRIDAE,Haliaeetus,Haliaeetus leucocephalus,Bald Eagle,76,24,34.1,81.7,601.8,353,294,0,30,20,30,0,20,0,0
+Haliaeetus_leucogaster,Accipitriformes,ACCIPITRIDAE,Haliaeetus,Haliaeetus leucogaster,White-bellied Sea-eagle,71.3,18.5,24.9,86,556.7,330.2,253.3,0,40,20,20,0,20,0,0
+Haliaeetus_leucoryphus,Accipitriformes,ACCIPITRIDAE,Haliaeetus,Haliaeetus leucoryphus,Pallas's Fish-eagle,63.6,19.3,28.3,95.3,566.6,322.8,290.3,0,10,10,60,0,20,0,0
+Haliaeetus_pelagicus,Accipitriformes,ACCIPITRIDAE,Haliaeetus,Haliaeetus pelagicus,Steller's Sea-eagle,90.6,28.9,47,96.3,598.5,412.2,333.6,0,0,0,60,0,40,0,0
+Haliaeetus_sanfordi,Accipitriformes,ACCIPITRIDAE,Haliaeetus,Haliaeetus sanfordi,Sanford's Sea-eagle,59.5,18.6,26.9,83,523.2,336.4,265,0,10,0,40,0,50,0,0
+Haliaeetus_vocifer,Accipitriformes,ACCIPITRIDAE,Haliaeetus,Haliaeetus vocifer,African Fish-eagle,58.4,16.8,25.1,88.2,548.2,366,228,0,20,10,50,0,20,0,0
+Haliaeetus_vociferoides,Accipitriformes,ACCIPITRIDAE,Haliaeetus,Haliaeetus vociferoides,Madagascar Fish-eagle,57,16.6,25.1,93.3,487.2,333,236.8,0,0,0,100,0,0,0,0
+Haliastur_indus,Accipitriformes,ACCIPITRIDAE,Haliastur,Haliastur indus,Brahminy Kite,48.8,12.9,17,48.2,399.8,257.2,203.8,10,20,10,10,0,50,0,0
+Haliastur_sphenurus,Accipitriformes,ACCIPITRIDAE,Haliastur,Haliastur sphenurus,Whistling Kite,40,13.1,18.2,58.8,407.4,221.5,264,10,10,10,10,0,60,0,0
+Hamirostra_melanosternon,Accipitriformes,ACCIPITRIDAE,Hamirostra,Hamirostra melanosternon,Black-breasted Buzzard,40.1,12.7,16.3,53,472.6,226,233,10,50,20,0,0,20,0,0
+Harpagus_bidentatus,Accipitriformes,ACCIPITRIDAE,Harpagus,Harpagus bidentatus,Double-toothed Kite,23.7,11.3,13.5,43.1,210.3,153.7,161.1,80,0,20,0,0,0,0,0
+Harpagus_diodon,Accipitriformes,ACCIPITRIDAE,Harpagus,Harpagus diodon,Rufous-thighed Kite,23.2,10.7,13.5,34.2,201.4,140.3,158.6,80,0,20,0,0,0,0,0
+Harpia_harpyja,Accipitriformes,ACCIPITRIDAE,Harpia,Harpia harpyja,Harpy Eagle,70.8,17.2,36.4,102.4,569.5,285.7,442,0,80,20,0,0,0,0,0
+Harpyopsis_novaeguineae,Accipitriformes,ACCIPITRIDAE,Harpyopsis,Harpyopsis novaeguineae,Papuan Eagle,60,18.2,33.2,133.8,426.2,354.1,377,0,80,20,0,0,0,0,0
+Helicolestes_hamatus,Accipitriformes,ACCIPITRIDAE,Helicolestes,Helicolestes hamatus,Slender-billed Kite,34.8,10.9,11.6,46,290.3,225.8,125.5,100,0,0,0,0,0,0,0
+Henicopernis_infuscatus,Accipitriformes,ACCIPITRIDAE,Henicopernis,Henicopernis infuscatus,Black Honey-buzzard,30.8,10.1,15.3,41.4,337,210,253,50,0,50,0,0,0,0,0
+Henicopernis_longicauda,Accipitriformes,ACCIPITRIDAE,Henicopernis,Henicopernis longicauda,Long-tailed Honey-buzzard,31.7,11.2,14.3,50.4,394.6,241.5,301.4,60,20,20,0,0,0,0,0
+Hieraaetus_ayresii,Accipitriformes,ACCIPITRIDAE,Hieraaetus,Hieraaetus ayresii,Ayres's Hawk-eagle,33.5,11.7,17.8,68.2,383.5,251.8,210,0,100,0,0,0,0,0,0
+Hieraaetus_morphnoides,Accipitriformes,ACCIPITRIDAE,Hieraaetus,Hieraaetus morphnoides,Little Eagle,35.7,10.9,18.1,54.5,364.8,198,205.2,10,40,40,0,0,10,0,0
+Hieraaetus_pennatus,Accipitriformes,ACCIPITRIDAE,Hieraaetus,Hieraaetus pennatus,Booted Eagle,33.8,10.1,17,65.3,361.8,209.1,198,10,90,0,0,0,0,0,0
+Hieraaetus_wahlbergi,Accipitriformes,ACCIPITRIDAE,Hieraaetus,Hieraaetus wahlbergi,Wahlberg's Eagle,39.3,12.1,17.4,71.1,413.8,235.5,216.8,10,20,70,0,0,0,0,0
+Hieraaetus_weiskei,Accipitriformes,ACCIPITRIDAE,Hieraaetus,Hieraaetus weiskei,Pygmy Eagle,30.4,10,17,55,337,225.5,172,10,40,40,0,0,10,0,0
+Icthyophaga_humilis,Accipitriformes,ACCIPITRIDAE,Icthyophaga,Icthyophaga humilis,Lesser Fish-eagle,49.5,13.6,18.6,63,353.2,234.4,182.8,0,0,0,100,0,0,0,0
+Icthyophaga_ichthyaetus,Accipitriformes,ACCIPITRIDAE,Icthyophaga,Icthyophaga ichthyaetus,Grey-headed Fish-eagle,66.1,16.8,25.7,81.7,471.2,330.4,268.8,0,0,0,90,10,0,0,0
+Ictinaetus_malaiensis,Accipitriformes,ACCIPITRIDAE,Ictinaetus,Ictinaetus malaiensis,Black Eagle,51.5,13.7,18.6,68.7,552.8,316.8,314.4,20,50,30,0,0,0,0,0
+Ictinia_mississippiensis,Accipitriformes,ACCIPITRIDAE,Ictinia,Ictinia mississippiensis,Mississippi Kite,23,11,12.3,37,291.8,135.2,150.2,90,0,0,0,10,0,0,0
+Ictinia_plumbea,Accipitriformes,ACCIPITRIDAE,Ictinia,Ictinia plumbea,Plumbeous Kite,23.9,10.8,13.4,33.2,285.6,164.9,134.8,90,0,10,0,0,0,0,0
+Kaupifalco_monogrammicus,Accipitriformes,ACCIPITRIDAE,Kaupifalco,Kaupifalco monogrammicus,Lizard Buzzard,29.3,10.1,12.8,53.1,217.4,146.8,142.6,60,10,30,0,0,0,0,0
+Leptodon_cayanensis,Accipitriformes,ACCIPITRIDAE,Leptodon,Leptodon cayanensis,Grey-headed Kite,33.9,11.5,16,38.5,302.8,245.8,221.8,50,20,30,0,0,0,0,0
+Leptodon_forbesi,Accipitriformes,ACCIPITRIDAE,Leptodon,Leptodon forbesi,White-collared Kite,36.2,12.2,17.4,43.1,316.2,226.8,233.4,50,20,30,0,0,0,0,0
+Leucopternis_kuhli,Accipitriformes,ACCIPITRIDAE,Leucopternis,Leucopternis kuhli,White-browed Hawk,30.4,11.4,15,56.2,207.6,156.6,148.6,0,0,100,0,0,0,0,0
+Leucopternis_melanops,Accipitriformes,ACCIPITRIDAE,Leucopternis,Leucopternis melanops,Black-faced Hawk,29.6,11.1,15.3,56.5,210.8,149.2,130,0,0,100,0,0,0,0,0
+Leucopternis_semiplumbeus,Accipitriformes,ACCIPITRIDAE,Leucopternis,Leucopternis semiplumbeus,Semiplumbeous Hawk,28.8,9.7,14.9,53.8,191,146.5,123.8,10,10,80,0,0,0,0,0
+Lophaetus_occipitalis,Accipitriformes,ACCIPITRIDAE,Lophaetus,Lophaetus occipitalis,Long-crested Eagle,46.6,11.1,17.4,93.3,373.6,255.3,201.4,10,60,20,10,0,0,0,0
+Lophoictinia_isura,Accipitriformes,ACCIPITRIDAE,Lophoictinia,Lophoictinia isura,Square-tailed Kite,45.2,15.1,18.6,71.6,471.2,244.2,224.2,20,60,20,0,0,0,0,0
+Lophotriorchis_kienerii,Accipitriformes,ACCIPITRIDAE,Lophotriorchis,Lophotriorchis kienerii,Rufous-bellied Eagle,46.1,11.9,17.2,53.5,366.2,227.5,216.3,0,100,0,0,0,0,0,0
+Macheiramphus_alcinus,Accipitriformes,ACCIPITRIDAE,Macheiramphus,Macheiramphus alcinus,Bat Hawk,45.1,9,12.7,54.2,360.2,186,189.8,20,40,40,0,0,0,0,0
+Megatriorchis_doriae,Accipitriformes,ACCIPITRIDAE,Megatriorchis,Megatriorchis doriae,Doria's Goshawk,35.1,11.6,16.7,80,290.5,214.9,257.5,0,100,0,0,0,0,0,0
+Melierax_canorus,Accipitriformes,ACCIPITRIDAE,Melierax,Melierax canorus,Pale Chanting-goshawk,33.5,11.1,23.8,100.6,353,215.8,230,10,40,40,0,0,10,0,0
+Melierax_metabates,Accipitriformes,ACCIPITRIDAE,Melierax,Melierax metabates,Dark Chanting-goshawk,32.5,11,17.5,85.6,317.6,208.9,216,10,20,60,0,0,10,0,0
+Melierax_poliopterus,Accipitriformes,ACCIPITRIDAE,Melierax,Melierax poliopterus,Eastern Chanting-goshawk,33.3,12.1,23.6,88.4,305.8,193.1,203.6,10,10,80,0,0,0,0,0
+Micronisus_gabar,Accipitriformes,ACCIPITRIDAE,Micronisus,Micronisus gabar,Gabar Goshawk,20.2,7.8,11,47.2,187,123.7,147.5,10,80,10,0,0,0,0,0
+Milvus_migrans,Accipitriformes,ACCIPITRIDAE,Milvus,Milvus migrans,Black Kite,40,13,17.4,51.4,457.4,237.5,269.5,0,10,10,10,0,70,0,0
+Milvus_milvus,Accipitriformes,ACCIPITRIDAE,Milvus,Milvus milvus,Red Kite,40.2,13.2,18.7,52.9,481.5,241.6,317.3,0,30,0,0,0,70,0,0
+Morphnarchus_princeps,Accipitriformes,ACCIPITRIDAE,Morphnarchus,Morphnarchus princeps,Barred Hawk,43.5,13.8,20.4,86.5,364.7,257.2,192.7,0,0,100,0,0,0,0,0
+Morphnus_guianensis,Accipitriformes,ACCIPITRIDAE,Morphnus,Morphnus guianensis,Crested Eagle,48.4,14.6,22.8,85.3,464.8,358.6,372.8,0,60,40,0,0,0,0,0
+Necrosyrtes_monachus,Accipitriformes,ACCIPITRIDAE,Necrosyrtes,Necrosyrtes monachus,Hooded Vulture,63.9,13.6,15.2,78.7,471.4,288,223,20,0,0,0,0,80,0,0
+Neophron_percnopterus,Accipitriformes,ACCIPITRIDAE,Neophron,Neophron percnopterus,Egyptian Vulture,61.7,10.4,13.5,77.2,490.8,255,247.2,10,20,0,10,0,60,0,0
+Nisaetus_alboniger,Accipitriformes,ACCIPITRIDAE,Nisaetus,Nisaetus alboniger,Blyth's Hawk-eagle,48,12.9,20.3,77.1,325.2,245.2,239.5,0,80,20,0,0,0,0,0
+Nisaetus_bartelsi,Accipitriformes,ACCIPITRIDAE,Nisaetus,Nisaetus bartelsi,Javan Hawk-eagle,42.7,14,21.3,100.3,378,294.5,228.4,0,80,20,0,0,0,0,0
+Nisaetus_cirrhatus,Accipitriformes,ACCIPITRIDAE,Nisaetus,Nisaetus cirrhatus,Changeable Hawk-eagle,49.9,12.6,21.7,97.7,414.6,298.5,289.8,0,50,50,0,0,0,0,0
+Nisaetus_floris,Accipitriformes,ACCIPITRIDAE,Nisaetus,Nisaetus floris,Flores Hawk-eagle,41.7,12.8,21.6,113.9,436.7,320.8,229.3,0,50,50,0,0,0,0,0
+Nisaetus_lanceolatus,Accipitriformes,ACCIPITRIDAE,Nisaetus,Nisaetus lanceolatus,Sulawesi Hawk-eagle,39.3,12.8,21.6,90.5,373,285.8,261.8,0,80,20,0,0,0,0,0
+Nisaetus_nanus,Accipitriformes,ACCIPITRIDAE,Nisaetus,Nisaetus nanus,Wallace's Hawk-eagle,44.2,11.3,17.3,75.5,312.7,234.6,240.8,0,80,20,0,0,0,0,0
+Nisaetus_nipalensis,Accipitriformes,ACCIPITRIDAE,Nisaetus,Nisaetus nipalensis,Mountain Hawk-eagle,44.2,13.1,23.5,101.2,423.7,317.6,286.4,0,80,20,0,0,0,0,0
+Nisaetus_philippensis,Accipitriformes,ACCIPITRIDAE,Nisaetus,Nisaetus philippensis,North Philippine Hawk-eagle,38.9,12.2,20.5,92,355.2,262.2,253.4,0,100,0,0,0,0,0,0
+Nisaetus_pinskeri,Accipitriformes,ACCIPITRIDAE,Nisaetus,Nisaetus pinskeri,South Philippine Hawk-eagle,43.2,12.9,20.9,89.7,349,276,248,NA,NA,NA,NA,NA,NA,NA,NA
+Pandion_haliaetus,Accipitriformes,PANDIONIDAE,Pandion,Pandion haliaetus,Osprey,47,17.3,19.6,49.8,468.4,253,201.3,0,0,0,100,0,0,0,0
+Parabuteo_leucorrhous,Accipitriformes,ACCIPITRIDAE,Parabuteo,Parabuteo leucorrhous,White-rumped Hawk,29,9.8,14.2,62.6,241,174.2,171.6,30,20,50,0,0,0,0,0
+Parabuteo_unicinctus,Accipitriformes,ACCIPITRIDAE,Parabuteo,Parabuteo unicinctus,Harris's Hawk,34.4,11.4,16.6,81.6,320.8,223.2,222,0,90,10,0,0,0,0,0
+Pernis_apivorus,Accipitriformes,ACCIPITRIDAE,Pernis,Pernis apivorus,European Honey-buzzard,34.8,11.7,13.7,43.9,407.4,253,253.2,80,10,10,0,0,0,0,0
+Pernis_celebensis,Accipitriformes,ACCIPITRIDAE,Pernis,Pernis celebensis,Sulawesi Honey-buzzard,31,10.8,14.6,41.2,350.2,253.5,246.2,80,20,0,0,0,0,0,0
+Pernis_ptilorhynchus,Accipitriformes,ACCIPITRIDAE,Pernis,Pernis ptilorhynchus,Oriental Honey-buzzard,55.9,13.1,15.4,49,413.6,278.6,263.8,80,10,10,0,0,0,0,0
+Pernis_steerei,Accipitriformes,ACCIPITRIDAE,Pernis,Pernis steerei,Philippine Honey-buzzard,33.9,11.6,15.1,42.6,378.5,265.2,257.2,NA,NA,NA,NA,NA,NA,NA,NA
+Pithecophaga_jefferyi,Accipitriformes,ACCIPITRIDAE,Pithecophaga,Pithecophaga jefferyi,Philippine Eagle,85.3,20.8,49.6,133.8,585.8,407.1,423,0,80,20,0,0,0,0,0
+Polemaetus_bellicosus,Accipitriformes,ACCIPITRIDAE,Polemaetus,Polemaetus bellicosus,Martial Eagle,54.3,16.8,28.7,112.4,571.6,374.2,256,0,80,20,0,0,0,0,0
+Polyboroides_radiatus,Accipitriformes,ACCIPITRIDAE,Polyboroides,Polyboroides radiatus,Madagascar Harrier-hawk,36.8,10,16.1,89.9,397.4,287,298,60,20,20,0,0,0,0,0
+Polyboroides_typus,Accipitriformes,ACCIPITRIDAE,Polyboroides,Polyboroides typus,African Harrier-hawk,39.1,10.3,16.6,88.1,443.1,285.5,289.9,20,40,20,0,0,0,20,0
+Pseudastur_albicollis,Accipitriformes,ACCIPITRIDAE,Pseudastur,Pseudastur albicollis,White Hawk,38.8,14.2,19.6,82.9,358.3,273.6,216.8,20,30,30,20,0,0,0,0
+Pseudastur_occidentalis,Accipitriformes,ACCIPITRIDAE,Pseudastur,Pseudastur occidentalis,Grey-backed Hawk,36,12.4,18.5,76.2,346.2,248.5,192,40,20,40,0,0,0,0,0
+Pseudastur_polionotus,Accipitriformes,ACCIPITRIDAE,Pseudastur,Pseudastur polionotus,Mantled Hawk,38.4,12.8,19.7,84.6,365.8,245.5,188.2,0,70,30,0,0,0,0,0
+Rostrhamus_sociabilis,Accipitriformes,ACCIPITRIDAE,Rostrhamus,Rostrhamus sociabilis,Snail Kite,33.1,11.1,11.3,49.9,344.8,206.7,169.3,100,0,0,0,0,0,0,0
+Rupornis_magnirostris,Accipitriformes,ACCIPITRIDAE,Rupornis,Rupornis magnirostris,Roadside Hawk,26.4,10.4,13.4,61.5,220.9,164.6,159.1,40,30,30,0,0,0,0,0
+Sagittarius_serpentarius,Accipitriformes,SAGITTARIIDAE,Sagittarius,Sagittarius serpentarius,Secretarybird,59.4,19,24.1,269.9,615.5,365.2,551.8,60,20,20,0,0,0,0,0
+Sarcogyps_calvus,Accipitriformes,ACCIPITRIDAE,Sarcogyps,Sarcogyps calvus,Red-headed Vulture,68.5,23,33.9,115,570,322,229.2,0,0,0,0,0,100,0,0
+Spilornis_cheela,Accipitriformes,ACCIPITRIDAE,Spilornis,Spilornis cheela,Crested Serpent-eagle,45.6,14.4,20.8,82.2,373.7,261.1,237.4,10,20,60,10,0,0,0,0
+Spilornis_elgini,Accipitriformes,ACCIPITRIDAE,Spilornis,Spilornis elgini,Andaman Serpent-eagle,37.5,12.8,18.4,76.1,365.4,255.8,215.6,0,50,50,0,0,0,0,0
+Spilornis_holospilus,Accipitriformes,ACCIPITRIDAE,Spilornis,Spilornis holospilus,Philippine Serpent-eagle,37.5,12.2,18,75,340.1,234.5,221.7,10,20,60,10,0,0,0,0
+Spilornis_kinabaluensis,Accipitriformes,ACCIPITRIDAE,Spilornis,Spilornis kinabaluensis,Kinabalu Serpent-eagle,34.6,13.4,16.8,72.6,368.5,261.5,227.5,10,20,70,0,0,0,0,0
+Spilornis_klossi,Accipitriformes,ACCIPITRIDAE,Spilornis,Spilornis klossi,Great Nicobar Serpent-eagle,38.2,13.5,18.8,74.7,297.2,209.4,198.2,10,20,60,10,0,0,0,0
+Spilornis_rufipectus,Accipitriformes,ACCIPITRIDAE,Spilornis,Spilornis rufipectus,Sulawesi Serpent-eagle,34.6,13.3,17.4,64.3,328.6,221.5,214.4,10,20,60,10,0,0,0,0
+Spizaetus_isidori,Accipitriformes,ACCIPITRIDAE,Spizaetus,Spizaetus isidori,Black-and-chestnut Eagle,51.3,15.9,25.8,113.4,484.4,376.2,299,0,100,0,0,0,0,0,0
+Spizaetus_melanoleucus,Accipitriformes,ACCIPITRIDAE,Spizaetus,Spizaetus melanoleucus,Black-and-white Hawk-eagle,40.9,12.8,20.7,72.1,400.6,275.4,249,0,80,20,0,0,0,0,0
+Spizaetus_ornatus,Accipitriformes,ACCIPITRIDAE,Spizaetus,Spizaetus ornatus,Ornate Hawk-eagle,39.1,12.3,20.2,93.8,353,287.3,289.5,0,90,10,0,0,0,0,0
+Spizaetus_tyrannus,Accipitriformes,ACCIPITRIDAE,Spizaetus,Spizaetus tyrannus,Black Hawk-eagle,42.3,12.1,21,80.4,384.4,315.6,334.4,0,60,40,0,0,0,0,0
+Stephanoaetus_coronatus,Accipitriformes,ACCIPITRIDAE,Stephanoaetus,Stephanoaetus coronatus,Crowned Eagle,53.3,16.7,29,94,496.4,393,367.1,0,90,10,0,0,0,0,0
+Terathopius_ecaudatus,Accipitriformes,ACCIPITRIDAE,Terathopius,Terathopius ecaudatus,Bateleur,52.5,16.3,25.3,65.1,500.4,266,109,10,50,10,10,0,20,0,0
+Torgos_tracheliotos,Accipitriformes,ACCIPITRIDAE,Torgos,Torgos tracheliotos,Lappet-faced Vulture,89.1,30.4,45.5,138.4,711.4,434.5,339.2,0,0,0,0,10,90,0,0
+Trigonoceps_occipitalis,Accipitriformes,ACCIPITRIDAE,Trigonoceps,Trigonoceps occipitalis,White-headed Vulture,72.1,23.8,33.5,115.9,618,349.2,250,0,0,0,0,10,90,0,0
+Urotriorchis_macrourus,Accipitriformes,ACCIPITRIDAE,Urotriorchis,Urotriorchis macrourus,Long-tailed Hawk,35.4,13.3,16.5,78.9,286.5,218.2,373.8,0,100,0,0,0,0,0,0
+Caracara_cheriway,Falconiformes,FALCONIDAE,Caracara,Caracara cheriway,Crested Caracara,48.3,14,23,94.8,386,224.2,207.3,20,0,20,0,0,60,0,0
+Caracara_plancus,Falconiformes,FALCONIDAE,Caracara,Caracara plancus,Southern Caracara,43.8,14.8,23.9,79.1,378.7,284.6,205.3,20,0,20,0,0,60,0,0
+Daptrius_ater,Falconiformes,FALCONIDAE,Daptrius,Daptrius ater,Black Caracara,33.1,12,15,48.3,310.7,215.2,199.4,10,20,20,20,0,20,10,0
+Falco_alopex,Falconiformes,FALCONIDAE,Falco,Falco alopex,Fox Kestrel,21.8,11.3,13.2,42.2,280.4,139.4,192.2,30,40,30,0,0,0,0,0
+Falco_amurensis,Falconiformes,FALCONIDAE,Falco,Falco amurensis,Amur Falcon,17.2,9,10.2,28.5,234.2,110.2,121.5,60,20,20,0,0,0,0,0
+Falco_araeus,Falconiformes,FALCONIDAE,Falco,Falco araeus,Seychelles Kestrel,17.3,8.1,9.5,31.7,151.8,83.2,98.8,20,20,60,0,0,0,0,0
+Falco_ardosiaceus,Falconiformes,FALCONIDAE,Falco,Falco ardosiaceus,Grey Kestrel,24.2,9.8,14,41,229.2,121.2,152.2,30,50,20,0,0,0,0,0
+Falco_berigora,Falconiformes,FALCONIDAE,Falco,Falco berigora,Brown Falcon,27.2,12.5,15.7,71.8,340.2,167,194,20,40,20,0,0,20,0,0
+Falco_biarmicus,Falconiformes,FALCONIDAE,Falco,Falco biarmicus,Lanner Falcon,28.2,13.4,16.6,46.9,330.8,165.2,169.8,10,80,10,0,0,0,0,0
+Falco_cenchroides,Falconiformes,FALCONIDAE,Falco,Falco cenchroides,Nankeen Kestrel,20,9.6,11.6,38.3,249.4,115.2,161.4,60,20,20,0,0,0,0,0
+Falco_cherrug,Falconiformes,FALCONIDAE,Falco,Falco cherrug,Saker Falcon,32.8,14.8,17.9,52.6,378.5,191.8,204.5,0,90,10,0,0,0,0,0
+Falco_chicquera,Falconiformes,FALCONIDAE,Falco,Falco chicquera,Red-headed Falcon,20.9,8.8,12.3,36.7,204.8,106.2,139,NA,NA,NA,NA,NA,NA,NA,NA
+Falco_columbarius,Falconiformes,FALCONIDAE,Falco,Falco columbarius,Merlin,16.6,8,10.5,34.3,199.6,103.5,116.6,20,80,0,0,0,0,0,0
+Falco_concolor,Falconiformes,FALCONIDAE,Falco,Falco concolor,Sooty Falcon,20.1,9.6,11.7,34,269,106.5,124.4,30,60,0,0,10,0,0,0
+Falco_cuvierii,Falconiformes,FALCONIDAE,Falco,Falco cuvierii,African Hobby,18.3,9,10.3,29.5,226.6,94.5,111.4,60,40,0,0,0,0,0,0
+Falco_deiroleucus,Falconiformes,FALCONIDAE,Falco,Falco deiroleucus,Orange-breasted Falcon,26.9,11.8,16.5,40.2,256.2,155,141,0,100,0,0,0,0,0,0
+Falco_dickinsoni,Falconiformes,FALCONIDAE,Falco,Falco dickinsoni,Dickinson's Kestrel,21.4,10.5,13.7,34.3,221,105.8,134.6,30,40,30,0,0,0,0,0
+Falco_eleonorae,Falconiformes,FALCONIDAE,Falco,Falco eleonorae,Eleonora's Falcon,22.1,10.6,12.9,33.1,311.9,140.4,160.5,50,50,0,0,0,0,0,0
+Falco_fasciinucha,Falconiformes,FALCONIDAE,Falco,Falco fasciinucha,Taita Falcon,21.5,11.3,12.4,30.2,208.2,87.8,85.5,10,90,0,0,0,0,0,0
+Falco_femoralis,Falconiformes,FALCONIDAE,Falco,Falco femoralis,Aplomado Falcon,21.4,10.8,13.2,40.5,245.1,139.7,167.6,50,40,10,0,0,0,0,0
+Falco_hypoleucos,Falconiformes,FALCONIDAE,Falco,Falco hypoleucos,Grey Falcon,24.1,12.4,15.5,42.1,307.4,149.5,144.6,20,50,30,0,0,0,0,0
+Falco_jugger,Falconiformes,FALCONIDAE,Falco,Falco jugger,Laggar Falcon,27.1,12.7,15.7,43.9,331.4,160.8,177.4,10,80,10,0,0,0,0,0
+Falco_longipennis,Falconiformes,FALCONIDAE,Falco,Falco longipennis,Australian Hobby,19.7,10.3,12.2,35.9,255,103.5,128,30,70,0,0,0,0,0,0
+Falco_mexicanus,Falconiformes,FALCONIDAE,Falco,Falco mexicanus,Prairie Falcon,31.1,13.8,16.5,55.6,325,163.2,188.4,0,100,0,0,0,0,0,0
+Falco_moluccensis,Falconiformes,FALCONIDAE,Falco,Falco moluccensis,Spotted Kestrel,23.2,9.5,11.6,41.5,224,111.3,138.2,30,40,30,0,0,0,0,0
+Falco_naumanni,Falconiformes,FALCONIDAE,Falco,Falco naumanni,Lesser Kestrel,19.8,9.5,11,29.9,229.3,105.7,132.4,100,0,0,0,0,0,0,0
+Falco_newtoni,Falconiformes,FALCONIDAE,Falco,Falco newtoni,Madagascar Kestrel,18.4,8.9,10.2,35.7,188.6,95.7,126.6,60,20,20,0,0,0,0,0
+Falco_novaeseelandiae,Falconiformes,FALCONIDAE,Falco,Falco novaeseelandiae,New Zealand Falcon,27.1,10.4,15.9,56.5,262.2,160.2,172.4,10,70,10,0,0,10,0,0
+Falco_peregrinus,Falconiformes,FALCONIDAE,Falco,Falco peregrinus,Peregrine Falcon,31.1,13.7,15.4,45.1,314.7,152.6,143,10,80,10,0,0,0,0,0
+Falco_punctatus,Falconiformes,FALCONIDAE,Falco,Falco punctatus,Mauritius Kestrel,19.5,9.2,10.7,39.3,179.4,115.8,134.4,10,20,70,0,0,0,0,0
+Falco_ruficollis,Falconiformes,FALCONIDAE,Falco,Falco ruficollis,Red-necked Falcon,19.5,8.6,11.9,37.6,203.7,107.9,123.8,20,70,10,0,0,0,0,0
+Falco_rufigularis,Falconiformes,FALCONIDAE,Falco,Falco rufigularis,Bat Falcon,19.6,9.7,11,32.8,198.8,118.7,108,30,70,0,0,0,0,0,0
+Falco_rupicoloides,Falconiformes,FALCONIDAE,Falco,Falco rupicoloides,Greater Kestrel,22.6,10.1,12.8,44.2,276.2,137.1,160.6,60,20,20,0,0,0,0,0
+Falco_rusticolus,Falconiformes,FALCONIDAE,Falco,Falco rusticolus,Gyrfalcon,36,16.3,19.2,56.7,368,193.2,201.8,0,100,0,0,0,0,0,0
+Falco_severus,Falconiformes,FALCONIDAE,Falco,Falco severus,Oriental Hobby,23.7,9.3,11.3,28.5,217.4,90.8,97.4,30,70,0,0,0,0,0,0
+Falco_sparverius,Falconiformes,FALCONIDAE,Falco,Falco sparverius,American Kestrel,17.1,8.4,10.1,33.7,182.4,100.1,126.5,60,20,20,0,0,0,0,0
+Falco_subbuteo,Falconiformes,FALCONIDAE,Falco,Falco subbuteo,Eurasian Hobby,17.9,10.4,11.8,31.7,260.7,110,129.2,70,30,0,0,0,0,0,0
+Falco_subniger,Falconiformes,FALCONIDAE,Falco,Falco subniger,Black Falcon,27.7,12.8,16.9,50.6,374.8,192.8,224.8,30,30,30,0,0,10,0,0
+Falco_tinnunculus,Falconiformes,FALCONIDAE,Falco,Falco tinnunculus,Common Kestrel,20.8,10.6,11.5,39.1,241,118.4,154.5,10,90,0,0,0,0,0,0
+Falco_vespertinus,Falconiformes,FALCONIDAE,Falco,Falco vespertinus,Red-footed Falcon,17.1,9.4,10.5,28.1,237.9,106.2,125.2,80,10,10,0,0,0,0,0
+Falco_zoniventris,Falconiformes,FALCONIDAE,Falco,Falco zoniventris,Banded Kestrel,20.6,10.2,14.7,34,218.8,111.5,141.5,20,20,60,0,0,0,0,0
+Herpetotheres_cachinnans,Falconiformes,FALCONIDAE,Herpetotheres,Herpetotheres cachinnans,Laughing Falcon,33.2,12.6,20.7,58.9,272.4,217.8,219,0,0,0,0,100,0,0,0
+Ibycter_americanus,Falconiformes,FALCONIDAE,Ibycter,Ibycter americanus,Red-throated Caracara,40.2,13.6,16.7,50.1,359.8,258.6,253.8,100,0,0,0,0,0,0,0
+Micrastur_buckleyi,Falconiformes,FALCONIDAE,Micrastur,Micrastur buckleyi,Buckley's Forest-falcon,26,8.7,14.7,65.3,211,178.9,229.5,0,0,0,0,100,0,0,0
+Micrastur_gilvicollis,Falconiformes,FALCONIDAE,Micrastur,Micrastur gilvicollis,Lined Forest-falcon,24.1,8.8,13,60.4,184.8,146.7,152.2,40,20,40,0,0,0,0,0
+Micrastur_mintoni,Falconiformes,FALCONIDAE,Micrastur,Micrastur mintoni,Cryptic Forest-falcon,24.4,9.2,13.4,57,187.6,146.7,154.9,50,0,0,0,50,0,0,0
+Micrastur_mirandollei,Falconiformes,FALCONIDAE,Micrastur,Micrastur mirandollei,Slaty-backed Forest-falcon,31.9,11.2,17.9,73.2,232,192.3,199.9,0,100,0,0,0,0,0,0
+Micrastur_plumbeus,Falconiformes,FALCONIDAE,Micrastur,Micrastur plumbeus,Plumbeous Forest-falcon,23.8,8.7,13.1,61.9,173,146.3,125.3,50,0,50,0,0,0,0,0
+Micrastur_ruficollis,Falconiformes,FALCONIDAE,Micrastur,Micrastur ruficollis,Barred Forest-falcon,21.4,8.2,12.2,58.4,167.1,129.3,166.6,0,20,80,0,0,0,0,0
+Micrastur_semitorquatus,Falconiformes,FALCONIDAE,Micrastur,Micrastur semitorquatus,Collared Forest-falcon,32,10.8,18.7,82.7,267.7,220.8,279.8,0,80,20,0,0,0,0,0
+Microhierax_caerulescens,Falconiformes,FALCONIDAE,Microhierax,Microhierax caerulescens,Collared Falconet,14.4,8,9.1,21.7,102,61.4,60.8,60,20,20,0,0,0,0,0
+Microhierax_erythrogenys,Falconiformes,FALCONIDAE,Microhierax,Microhierax erythrogenys,Philippine Falconet,15.5,7.9,10.6,21.6,106.6,65.9,59.6,90,0,10,0,0,0,0,0
+Microhierax_fringillarius,Falconiformes,FALCONIDAE,Microhierax,Microhierax fringillarius,Black-thighed Falconet,13.5,7.2,8.3,19,91.6,56.1,51.2,70,20,10,0,0,0,0,0
+Microhierax_latifrons,Falconiformes,FALCONIDAE,Microhierax,Microhierax latifrons,White-fronted Falconet,19.5,6.8,9.7,20.6,96.8,58.8,52.8,80,20,0,0,0,0,0,0
+Microhierax_melanoleucos,Falconiformes,FALCONIDAE,Microhierax,Microhierax melanoleucos,Pied Falconet,15.2,8.7,10.2,24.3,111.4,67,69.8,60,30,10,0,0,0,0,0
+Milvago_chimachima,Falconiformes,FALCONIDAE,Milvago,Milvago chimachima,Yellow-headed Caracara,30.5,11.3,14.5,49.4,285.9,199.9,198.4,20,10,20,20,0,20,10,0
+Phalcoboenus_albogularis,Falconiformes,FALCONIDAE,Phalcoboenus,Phalcoboenus albogularis,White-throated Caracara,39.2,13.4,18.6,70.5,376.8,201.5,218.2,30,30,0,0,0,40,0,0
+Phalcoboenus_australis,Falconiformes,FALCONIDAE,Phalcoboenus,Phalcoboenus australis,Striated Caracara,47,17,24,87.3,420.2,254.8,253.8,20,20,0,0,0,60,0,0
+Phalcoboenus_carunculatus,Falconiformes,FALCONIDAE,Phalcoboenus,Phalcoboenus carunculatus,Carunculated Caracara,42.2,13.5,18.6,77.1,384,218.5,208.4,20,20,20,0,0,20,0,20
+Phalcoboenus_chimango,Falconiformes,FALCONIDAE,Phalcoboenus,Phalcoboenus chimango,Chimango Caracara,27.9,10.7,13,61.7,294,156,167.8,20,20,10,0,0,50,0,0
+Phalcoboenus_megalopterus,Falconiformes,FALCONIDAE,Phalcoboenus,Phalcoboenus megalopterus,Mountain Caracara,40.2,13.5,19.3,79.3,371.8,216,215.8,30,30,0,0,0,40,0,0
+Polihierax_insignis,Falconiformes,FALCONIDAE,Polihierax,Polihierax insignis,White-rumped Pygmy-falcon,18.5,8.6,11.3,35.6,142,97.2,117.8,40,40,20,0,0,0,0,0
+Polihierax_semitorquatus,Falconiformes,FALCONIDAE,Polihierax,Polihierax semitorquatus,African Pygmy-falcon,14.5,7.1,8.9,27.7,115.6,72.3,72.4,40,20,40,0,0,0,0,0
+Spiziapteryx_circumcincta,Falconiformes,FALCONIDAE,Spiziapteryx,Spiziapteryx circumcincta,Spot-winged Falconet,19.8,9.1,12.7,47.5,159.8,105.2,131.8,40,30,30,0,0,0,0,0
+Aegolius_acadicus,Strigiformes,STRIGIDAE,Aegolius,Aegolius acadicus,Northern Saw-whet Owl,18.2,7,10.5,23.6,135.2,95,78,20,80,0,0,0,0,0,0
+Aegolius_funereus,Strigiformes,STRIGIDAE,Aegolius,Aegolius funereus,Boreal Owl,18.2,7.9,10.5,23.4,169.1,115.9,102.5,30,70,0,0,0,0,0,0
+Aegolius_harrisii,Strigiformes,STRIGIDAE,Aegolius,Aegolius harrisii,Buff-fronted Owl,22,7.6,12.4,28.1,150.1,109.6,72.9,50,50,0,0,0,0,0,0
+Aegolius_ridgwayi,Strigiformes,STRIGIDAE,Aegolius,Aegolius ridgwayi,Unspotted Saw-whet Owl,18.4,7.9,10.9,23.3,138.3,104.1,67.2,20,80,0,0,0,0,0,0
+Asio_abyssinicus,Strigiformes,STRIGIDAE,Asio,Asio abyssinicus,African Long-eared Owl,35.3,8.9,14.3,57.6,334.5,199.8,162.8,10,90,0,0,0,0,0,0
+Asio_capensis,Strigiformes,STRIGIDAE,Asio,Asio capensis,Marsh Owl,28.1,9.7,13.4,50.9,283.2,169.4,140.8,30,40,30,0,0,0,0,0
+Asio_clamator,Strigiformes,STRIGIDAE,Asio,Asio clamator,Striped Owl,32.9,10.4,17.5,46.1,248.9,198.6,135.6,20,60,20,0,0,0,0,0
+Asio_flammeus,Strigiformes,STRIGIDAE,Asio,Asio flammeus,Short-eared Owl,27.3,9,13,42.5,297.2,156.2,146.5,0,100,0,0,0,0,0,0
+Asio_madagascariensis,Strigiformes,STRIGIDAE,Asio,Asio madagascariensis,Madagascar Long-eared Owl,33.6,11.4,17.2,42.7,256.8,177.1,147,0,90,10,0,0,0,0,0
+Asio_otus,Strigiformes,STRIGIDAE,Asio,Asio otus,Northern Long-eared Owl,28.3,8.8,12.5,40.1,280.7,165.2,137,0,100,0,0,0,0,0,0
+Asio_stygius,Strigiformes,STRIGIDAE,Asio,Asio stygius,Stygian Owl,41.8,9.9,17.1,42.5,326.8,186.1,173.7,10,80,10,0,0,0,0,0
+Athene_brama,Strigiformes,STRIGIDAE,Athene,Athene brama,Spotted Owlet,19.7,7.5,11.3,25.6,153,108.5,74.2,70,20,10,0,0,0,0,0
+Athene_cunicularia,Strigiformes,STRIGIDAE,Athene,Athene cunicularia,Burrowing Owl,24.1,7.9,13.7,43.4,180,128.9,80.2,20,70,10,0,0,0,0,0
+Athene_noctua,Strigiformes,STRIGIDAE,Athene,Athene noctua,Little Owl,18.8,7.8,11.4,32.6,157,107,74.2,70,20,10,0,0,0,0,0
+Athene_superciliaris,Strigiformes,STRIGIDAE,Athene,Athene superciliaris,White-browed Owl,25.4,9.7,14.5,36.1,194,140.6,118.2,60,20,20,0,0,0,0,0
+Bubo_africanus,Strigiformes,STRIGIDAE,Bubo,Bubo africanus,Spotted Eagle-owl,38.3,12.3,19.4,61.9,311.4,215.4,175.9,60,20,20,0,0,0,0,0
+Bubo_ascalaphus,Strigiformes,STRIGIDAE,Bubo,Bubo ascalaphus,Pharaoh Eagle-owl,39.8,13,20,75.9,362,237.8,187,10,80,10,0,0,0,0,0
+Bubo_bengalensis,Strigiformes,STRIGIDAE,Bubo,Bubo bengalensis,Rock Eagle-owl,45.2,13.2,20.7,73.1,378.8,240.2,190.2,10,70,10,10,0,0,0,0
+Bubo_blakistoni,Strigiformes,STRIGIDAE,Bubo,Bubo blakistoni,Blakiston's Eagle-owl,52.3,19.7,27.8,83,508,373,261,20,10,10,60,0,0,0,0
+Bubo_bubo,Strigiformes,STRIGIDAE,Bubo,Bubo bubo,Eurasian Eagle-owl,50.4,17.9,26,79.9,438.5,293.8,244.5,10,80,10,0,0,0,0,0
+Bubo_capensis,Strigiformes,STRIGIDAE,Bubo,Bubo capensis,Cape Eagle-owl,40,12.6,21.2,73,361,241,189.8,0,90,10,0,0,0,0,0
+Bubo_cinerascens,Strigiformes,STRIGIDAE,Bubo,Bubo cinerascens,Greyish Eagle-owl,37,11.6,17.1,63.3,299.4,200.6,161.8,40,30,30,0,0,0,0,0
+Bubo_coromandus,Strigiformes,STRIGIDAE,Bubo,Bubo coromandus,Dusky Eagle-owl,43.5,14.1,22,59.4,397,259.4,205.5,0,70,20,10,0,0,0,0
+Bubo_lacteus,Strigiformes,STRIGIDAE,Bubo,Bubo lacteus,Verreaux's Eagle-owl,53.8,15.9,27.8,75.1,435.4,306.5,217.8,10,60,20,10,0,0,0,0
+Bubo_leucostictus,Strigiformes,STRIGIDAE,Bubo,Bubo leucostictus,Akun Eagle-owl,32.3,10.8,16.4,46.8,313.6,209,188,100,0,0,0,0,0,0,0
+Bubo_magellanicus,Strigiformes,STRIGIDAE,Bubo,Bubo magellanicus,Magellanic Horned Owl,40.1,12.6,20.2,65.9,336,223.2,181.6,10,80,10,0,0,0,0,0
+Bubo_nipalensis,Strigiformes,STRIGIDAE,Bubo,Bubo nipalensis,Spot-bellied Eagle-owl,54.2,19.2,28.6,69,426,304.1,219.2,0,60,20,20,0,0,0,0
+Bubo_philippensis,Strigiformes,STRIGIDAE,Bubo,Bubo philippensis,Philippine Eagle-owl,47.5,16.4,23.8,67.5,341.2,261.4,166.8,0,100,0,0,0,0,0,0
+Bubo_poensis,Strigiformes,STRIGIDAE,Bubo,Bubo poensis,Fraser's Eagle-owl,41.5,13.4,22,50.3,308.4,239.8,162.7,60,20,20,0,0,0,0,0
+Bubo_scandiacus,Strigiformes,STRIGIDAE,Bubo,Bubo scandiacus,Snowy Owl,44.3,14.9,22.1,62.2,418.8,246.8,215,10,90,0,0,0,0,0,0
+Bubo_shelleyi,Strigiformes,STRIGIDAE,Bubo,Bubo shelleyi,Shelley's Eagle-owl,55.4,18.9,29.5,71.5,430.8,325.1,228.8,0,100,0,0,0,0,0,0
+Bubo_sumatranus,Strigiformes,STRIGIDAE,Bubo,Bubo sumatranus,Barred Eagle-owl,48.6,15,23.4,41.3,331.8,249.2,165.6,60,30,10,0,0,0,0,0
+Bubo_virginianus,Strigiformes,STRIGIDAE,Bubo,Bubo virginianus,Great Horned Owl,44.7,17.8,25.4,75.4,371.2,258.5,197,10,90,0,0,0,0,0,0
+Ciccaba_albitarsis,Strigiformes,STRIGIDAE,Ciccaba,Ciccaba albitarsis,Rufous-banded Owl,32.1,9.5,15.5,48.7,263.6,176.4,143.4,50,50,0,0,0,0,0,0
+Ciccaba_huhula,Strigiformes,STRIGIDAE,Ciccaba,Ciccaba huhula,Black-banded Owl,36.1,9,15.3,44.6,249.5,179.8,148.5,80,0,0,0,20,0,0,0
+Ciccaba_nigrolineata,Strigiformes,STRIGIDAE,Ciccaba,Ciccaba nigrolineata,Black-and-white Owl,36.6,9,16,47.4,255,182.6,165.2,70,30,0,0,0,0,0,0
+Ciccaba_virgata,Strigiformes,STRIGIDAE,Ciccaba,Ciccaba virgata,Mottled Owl,33,9,16.1,40.6,240.6,190.3,149.1,40,30,30,0,0,0,0,0
+Glaucidium_albertinum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium albertinum,Albertine Owlet,19.3,7.9,11.2,25.1,130.2,107.7,73.9,100,0,0,0,0,0,0,0
+Glaucidium_bolivianum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium bolivianum,Yungas Pygmy-owl,14.8,5.6,8.9,20.4,101.6,77.4,61.5,50,40,10,0,0,0,0,0
+Glaucidium_brasilianum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium brasilianum,Ferruginous Pygmy-owl,15.1,6.1,10.7,17.2,93.8,77.1,62.8,60,20,20,0,0,0,0,0
+Glaucidium_brodiei,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium brodiei,Collared Owlet,20.5,6.7,10.6,16.7,92.6,74.3,50.4,30,40,30,0,0,0,0,0
+Glaucidium_californicum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium californicum,Northern Pygmy-owl,13.3,6,8.9,20,93.5,68.8,67.8,40,50,10,0,0,0,0,0
+Glaucidium_capense,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium capense,African Barred Owlet,18.2,7.5,11.2,25.6,139.2,98.8,79.5,60,40,0,0,0,0,0,0
+Glaucidium_castaneum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium castaneum,Chestnut Owlet,17.6,7.1,11.1,23.7,129.5,96.6,77.5,50,0,0,0,50,0,0,0
+Glaucidium_castanopterum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium castanopterum,Javan Owlet,19,8.2,13.1,22.1,139.6,103.9,69.6,60,30,10,0,0,0,0,0
+Glaucidium_castanotum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium castanotum,Chestnut-backed Owlet,18.5,8.2,11.6,26.9,126,94.2,62.4,70,20,10,0,0,0,0,0
+Glaucidium_cobanense,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium cobanense,Guatemalan Pygmy-owl,13,6.9,9.8,15.5,87.7,67.3,60.4,NA,NA,NA,NA,NA,NA,NA,NA
+Glaucidium_costaricanum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium costaricanum,Costa Rican Pygmy-Owl,13.2,6,8.9,18.5,93.8,67.8,53,60,20,20,0,0,0,0,0
+Glaucidium_cuculoides,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium cuculoides,Asian Barred Owlet,20.7,8,13.4,23.4,147.8,113.2,81,60,20,20,0,0,0,0,0
+Glaucidium_gnoma,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium gnoma,Mountain Pygmy-owl,14.1,4.9,9.6,17.4,87.8,70.3,62.5,60,30,10,0,0,0,0,0
+Glaucidium_griseiceps,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium griseiceps,Central American Pygmy-Owl,13.4,5.9,9.4,17.8,90.4,67.2,52.2,40,30,30,0,0,0,0,0
+Glaucidium_hardyi,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium hardyi,Amazonian Pygmy-owl,14.7,6.4,8.9,18.9,89.5,71.6,48,70,0,0,0,30,0,0,0
+Glaucidium_hoskinsii,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium hoskinsii,Baja Pygmy-owl,12.9,7.2,9,20.4,88.4,67.4,63.1,NA,NA,NA,NA,NA,NA,NA,NA
+Glaucidium_jardinii,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium jardinii,Andean Pygmy-owl,14.5,7,9,21.4,99.6,73.3,65.6,50,50,0,0,0,0,0,0
+Glaucidium_minutissimum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium minutissimum,Least Pygmy-owl,14.6,6.2,8.7,18.4,86.5,68.2,47.8,60,20,20,0,0,0,0,0
+Glaucidium_mooreorum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium mooreorum,Pernambuco Pygmy-owl,10.8,6.4,9.3,12.6,82.2,77.3,49.2,50,30,10,0,10,0,0,0
+Glaucidium_nana,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium nana,Austral Pygmy-owl,16.5,6,9.4,18.3,95.2,80.3,68.5,10,80,10,0,0,0,0,0
+Glaucidium_nubicola,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium nubicola,Cloudforest Pygmy-owl,14.8,8.2,9.6,16.9,92,85,44.5,50,0,0,0,50,0,0,0
+Glaucidium_palmarum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium palmarum,Colima Pygmy-Owl,13.4,5.8,9.2,17.2,81.5,70,59.5,30,40,30,0,0,0,0,0
+Glaucidium_parkeri,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium parkeri,Subtropical Pygmy-owl,14.3,6.8,9.3,19.9,93.9,71.4,49.3,40,30,30,0,0,0,0,0
+Glaucidium_passerinum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium passerinum,Eurasian Pygmy-owl,14.3,6.1,9.1,15.4,101.2,75,58.6,0,100,0,0,0,0,0,0
+Glaucidium_perlatum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium perlatum,Pearl-spotted Owlet,15,7.2,10.1,22.3,110.4,84,78.2,60,30,10,0,0,0,0,0
+Glaucidium_peruanum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium peruanum,Peruvian Pygmy-owl,15.3,6.5,10.3,21.9,94.2,75.5,63.8,50,50,0,0,0,0,0,0
+Glaucidium_radiatum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium radiatum,Jungle Owlet,16.9,7,10.5,24.5,123.2,90.5,65.4,60,20,20,0,0,0,0,0
+Glaucidium_sanchezi,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium sanchezi,Tamaulipas Pygmy-owl,14.3,7.7,9.9,19.1,87.5,69.9,55.5,50,0,50,0,0,0,0,0
+Glaucidium_siju,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium siju,Cuban Pygmy-owl,15.1,6.2,9.2,21.3,97.2,74.5,62,60,20,20,0,0,0,0,0
+Glaucidium_sjostedti,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium sjostedti,Sjostedt's Owlet,21,9,13.1,27.2,158,121.2,90,70,20,10,0,0,0,0,0
+Glaucidium_tephronotum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium tephronotum,Red-chested Owlet,16,5.5,9.8,22.3,102.8,91.4,65,80,20,0,0,0,0,0,0
+Glaucidium_tucumanum,Strigiformes,STRIGIDAE,Glaucidium,Glaucidium tucumanum,Tucuman Pygmy-owl,14.5,8.3,10.2,20.4,95.1,77.8,65.1,NA,NA,NA,NA,NA,NA,NA,NA
+Jubula_lettii,Strigiformes,STRIGIDAE,Jubula,Jubula lettii,Maned Owl,27.8,8.9,13,35.7,265,195.1,158.1,90,0,0,0,0,0,0,10
+Ketupa_flavipes,Strigiformes,STRIGIDAE,Ketupa,Ketupa flavipes,Tawny Fish-owl,48.8,16.5,22.7,78.4,432.8,318.2,206.8,20,20,0,60,0,0,0,0
+Ketupa_ketupu,Strigiformes,STRIGIDAE,Ketupa,Ketupa ketupu,Buffy Fish-owl,50.3,14.2,21.4,64.6,335.2,263,146.2,10,10,20,60,0,0,0,0
+Ketupa_zeylonensis,Strigiformes,STRIGIDAE,Ketupa,Ketupa zeylonensis,Brown Fish-owl,49.7,16.9,23.8,71.2,381.1,273.4,187.5,30,10,20,40,0,0,0,0
+Lophostrix_cristata,Strigiformes,STRIGIDAE,Lophostrix,Lophostrix cristata,Crested Owl,34.3,10.1,16.2,46,309.6,255.4,183.2,90,0,0,0,10,0,0,0
+Margarobyas_lawrencii,Strigiformes,STRIGIDAE,Margarobyas,Margarobyas lawrencii,Bare-legged Screech-owl,20,6.5,10.8,33.5,143.8,107.5,76.8,90,0,10,0,0,0,0,0
+Megascops_albogularis,Strigiformes,STRIGIDAE,Megascops,Megascops albogularis,White-throated Screech-owl,22.7,7.7,11.4,34.6,196.2,147.8,111,90,0,0,0,10,0,0,0
+Megascops_asio,Strigiformes,STRIGIDAE,Megascops,Megascops asio,Eastern Screech-owl,22,6.4,11.8,35.5,168.5,120.1,77.5,50,0,0,0,50,0,0,0
+Megascops_atricapilla,Strigiformes,STRIGIDAE,Megascops,Megascops atricapilla,Black-capped Screech-owl,21.9,7.6,11.3,33.5,171,128.3,95.5,90,0,0,0,10,0,0,0
+Megascops_barbarus,Strigiformes,STRIGIDAE,Megascops,Megascops barbarus,Bearded Screech-owl,17.7,6.6,9.7,26,136,96.5,65.7,100,0,0,0,0,0,0,0
+Megascops_choliba,Strigiformes,STRIGIDAE,Megascops,Megascops choliba,Tropical Screech-owl,21.8,7,11.7,30,162.8,124.5,91.3,90,0,0,0,10,0,0,0
+Megascops_clarkii,Strigiformes,STRIGIDAE,Megascops,Megascops clarkii,Bare-shanked Screech-owl,22.2,8.1,11.3,38.9,180.8,130.5,90,90,10,0,0,0,0,0,0
+Megascops_colombianus,Strigiformes,STRIGIDAE,Megascops,Megascops colombianus,Colombian Screech-owl,24.5,7,12.7,38,195.5,138.9,99.1,50,0,0,0,50,0,0,0
+Megascops_cooperi,Strigiformes,STRIGIDAE,Megascops,Megascops cooperi,Pacific Screech-owl,23.8,8.5,12.2,38.7,175.5,132.6,81,80,20,0,0,0,0,0,0
+Megascops_guatemalae,Strigiformes,STRIGIDAE,Megascops,Megascops guatemalae,Guatemalan Screech-owl,23.8,6.5,10.4,26.1,157,111.8,77.2,NA,NA,NA,NA,NA,NA,NA,NA
+Megascops_hoyi,Strigiformes,STRIGIDAE,Megascops,Megascops hoyi,Yungas Screech-owl,22.2,7.7,11.4,31.8,170.7,123.8,90.8,100,0,0,0,0,0,0,0
+Megascops_ingens,Strigiformes,STRIGIDAE,Megascops,Megascops ingens,Rufescent Screech-owl,24.3,7.6,11.3,34.8,194.3,137.6,100.7,100,0,0,0,0,0,0,0
+Megascops_kennicottii,Strigiformes,STRIGIDAE,Megascops,Megascops kennicottii,Western Screech-owl,24.4,6.8,12.7,39.9,176.8,128.8,85.2,50,40,10,0,0,0,0,0
+Megascops_koepckeae,Strigiformes,STRIGIDAE,Megascops,Megascops koepckeae,Koepcke's Screech-owl,21.6,7.6,11.1,35.2,171.2,128.9,89.5,100,0,0,0,0,0,0,0
+Megascops_marshalli,Strigiformes,STRIGIDAE,Megascops,Megascops marshalli,Cloudforest Screech-owl,21.2,6.4,9.8,32.2,162.2,120.2,83.1,90,10,0,0,0,0,0,0
+Megascops_nudipes,Strigiformes,STRIGIDAE,Megascops,Megascops nudipes,Puerto Rican Screech-owl,22.5,7.9,11.4,38.4,165.6,131,92.4,90,0,0,0,10,0,0,0
+Megascops_petersoni,Strigiformes,STRIGIDAE,Megascops,Megascops petersoni,Cinnamon Screech-owl,20.1,6.9,10.8,31.8,161.2,126.8,88.8,90,0,0,0,10,0,0,0
+Megascops_roboratus,Strigiformes,STRIGIDAE,Megascops,Megascops roboratus,Peruvian Screech-owl,22.6,6.7,10.9,36.3,164.8,122.9,86.3,100,0,0,0,0,0,0,0
+Megascops_sanctaecatarinae,Strigiformes,STRIGIDAE,Megascops,Megascops sanctaecatarinae,Long-tufted Screech-owl,19.4,7.3,11.7,30.1,200.7,163,102.3,50,0,0,0,50,0,0,0
+Megascops_seductus,Strigiformes,STRIGIDAE,Megascops,Megascops seductus,Balsas Screech-owl,23.6,7.8,12.4,41,173.9,128,92.8,50,0,0,0,50,0,0,0
+Megascops_trichopsis,Strigiformes,STRIGIDAE,Megascops,Megascops trichopsis,Whiskered Screech-owl,19.7,5.1,10.1,24.9,148.8,112.7,77.2,100,0,0,0,0,0,0,0
+Megascops_vermiculatus,Strigiformes,STRIGIDAE,Megascops,Megascops vermiculatus,Vermiculated Screech-owl,20.9,7.4,11.5,28.9,159.1,118.1,79.7,90,0,0,0,10,0,0,0
+Megascops_watsonii,Strigiformes,STRIGIDAE,Megascops,Megascops watsonii,Tawny-bellied Screech-owl,23.2,8.2,13.3,34.2,165.6,127.2,90.6,90,0,0,0,10,0,0,0
+Micrathene_whitneyi,Strigiformes,STRIGIDAE,Micrathene,Micrathene whitneyi,Elf Owl,12.9,5.2,7.4,20.1,108.2,75.8,47,100,0,0,0,0,0,0,0
+Nesasio_solomonensis,Strigiformes,STRIGIDAE,Nesasio,Nesasio solomonensis,Fearful Owl,45.9,13.5,22.1,58.4,263.4,203.1,123.8,0,100,0,0,0,0,0,0
+Ninox_affinis,Strigiformes,STRIGIDAE,Ninox,Ninox affinis,Andaman Boobook,22.5,8.2,12.8,30.1,190.8,124.6,116.2,100,0,0,0,0,0,0,0
+Ninox_boobook,Strigiformes,STRIGIDAE,Ninox,Ninox boobook,Southern Boobook,26.2,7.7,13.2,40.6,226.5,156.1,143,60,20,20,0,0,0,0,0
+Ninox_burhani,Strigiformes,STRIGIDAE,Ninox,Ninox burhani,Togian Boobook,23.4,6.9,11.2,27.9,188.5,128.1,100,70,20,0,0,10,0,0,0
+Ninox_connivens,Strigiformes,STRIGIDAE,Ninox,Ninox connivens,Barking Owl,33.8,11.9,18.5,49.2,298.6,199,178.7,20,80,0,0,0,0,0,0
+Ninox_forbesi,Strigiformes,STRIGIDAE,Ninox,Ninox forbesi,Tanimbar Boobook,26.1,8.4,13.1,25.7,193.6,134.9,113.4,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_granti,Strigiformes,STRIGIDAE,Ninox,Ninox granti,Guadalcanal Boobook,27,9.5,14.6,34.7,174.9,127,86,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_hantu,Strigiformes,STRIGIDAE,Ninox,Ninox hantu,Buru Boobook,25.9,8.4,12.5,29.1,193.1,128.1,117.9,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_hypogramma,Strigiformes,STRIGIDAE,Ninox,Ninox hypogramma,Halmahera Boobook,29.2,9.8,14.8,36.4,220,149.8,124.7,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_ios,Strigiformes,STRIGIDAE,Ninox,Ninox ios,Cinnabar Boobook,23.4,6.9,11.2,27.9,188.5,128.1,100,70,20,0,0,10,0,0,0
+Ninox_jacquinoti,Strigiformes,STRIGIDAE,Ninox,Ninox jacquinoti,West Solomons Boobook,27.9,10.1,14.9,40.1,188,145.9,93,80,0,0,0,20,0,0,0
+Ninox_japonica,Strigiformes,STRIGIDAE,Ninox,Ninox japonica,Northern Boobook,21.2,5.8,9.7,27,214.5,127.6,117.3,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_leucopsis,Strigiformes,STRIGIDAE,Ninox,Ninox leucopsis,Tasmanian Boobook,24.5,7.5,13.2,36.3,206.6,140.4,113.3,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_leventisi,Strigiformes,STRIGIDAE,Ninox,Ninox leventisi,Camiguin Boobook,21.3,6.2,11.4,30.7,163.8,119,72.9,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_malaitae,Strigiformes,STRIGIDAE,Ninox,Ninox malaitae,Malaita Boobook,24.7,9.5,13.6,30.3,157,115.5,87.5,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_meeki,Strigiformes,STRIGIDAE,Ninox,Ninox meeki,Manus Boobook,27.1,10.6,16,43.2,236,166.4,131,70,20,0,0,10,0,0,0
+Ninox_mindorensis,Strigiformes,STRIGIDAE,Ninox,Ninox mindorensis,Mindoro Boobook,20.9,6.3,10.5,27.2,159.8,114.3,83.6,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_natalis,Strigiformes,STRIGIDAE,Ninox,Ninox natalis,Christmas Boobook,25.8,8.1,12.8,39.2,189.8,139.9,115.5,80,10,10,0,0,0,0,0
+Ninox_novaeseelandiae,Strigiformes,STRIGIDAE,Ninox,Ninox novaeseelandiae,Morepork,22.8,7.8,12.3,32.5,194.2,130,118.5,70,20,10,0,0,0,0,0
+Ninox_obscura,Strigiformes,STRIGIDAE,Ninox,Ninox obscura,Hume's Boobook,23.5,8.8,12.8,28.8,212.5,133.7,122.2,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_ochracea,Strigiformes,STRIGIDAE,Ninox,Ninox ochracea,Ochre-bellied Boobook,23.4,6.9,11.2,27.9,188.5,128.1,100,70,20,0,0,10,0,0,0
+Ninox_odiosa,Strigiformes,STRIGIDAE,Ninox,Ninox odiosa,New Britain Boobook,25.1,9.8,14.9,32.1,182,138.8,89,50,0,0,0,50,0,0,0
+Ninox_philippensis,Strigiformes,STRIGIDAE,Ninox,Ninox philippensis,Luzon Boobook,21.3,6.2,11.4,30.7,163.8,119,72.9,50,50,0,0,0,0,0,0
+Ninox_punctulata,Strigiformes,STRIGIDAE,Ninox,Ninox punctulata,Speckled Boobook,24.8,11,15.1,37.5,159,117.5,69.8,70,20,0,0,10,0,0,0
+Ninox_randi,Strigiformes,STRIGIDAE,Ninox,Ninox randi,Chocolate Boobook,26.4,7.7,13.5,29.8,226,143.2,114,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_reyi,Strigiformes,STRIGIDAE,Ninox,Ninox reyi,Sulu Boobook,24.5,5,12.8,35.8,184.4,149.3,101.8,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_roseoaxillaris,Strigiformes,STRIGIDAE,Ninox,Ninox roseoaxillaris,Makira Boobook,25.5,9.6,14.3,28,148.2,110.6,72.1,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_rudolfi,Strigiformes,STRIGIDAE,Ninox,Ninox rudolfi,Sumba Boobook,28.1,8.1,14.9,43.2,233,167.5,141.5,70,0,0,0,30,0,0,0
+Ninox_rufa,Strigiformes,STRIGIDAE,Ninox,Ninox rufa,Rufous Owl,38.5,13.8,22.2,47.2,327.2,236,200,30,70,0,0,0,0,0,0
+Ninox_rumseyi,Strigiformes,STRIGIDAE,Ninox,Ninox rumseyi,Cebu Boobook,21.3,6.2,11.4,30.7,163.8,119,72.9,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_scutulata,Strigiformes,STRIGIDAE,Ninox,Ninox scutulata,Brown Boobook,28.2,7.2,12.2,22,181.5,128.3,99.2,60,20,20,0,0,0,0,0
+Ninox_spilocephala,Strigiformes,STRIGIDAE,Ninox,Ninox spilocephala,Mindanao Boobook,24.5,8.6,12.2,27.5,177.5,122.5,82.1,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_spilonotus,Strigiformes,STRIGIDAE,Ninox,Ninox spilonotus,Romblon Boobook,25.4,6.2,11.4,30.7,189.4,119,106.2,NA,NA,NA,NA,NA,NA,NA,NA
+Ninox_squamipila,Strigiformes,STRIGIDAE,Ninox,Ninox squamipila,Seram Boobook,28.1,9.3,14.1,35.1,212,148.8,119.2,100,0,0,0,0,0,0,0
+Ninox_strenua,Strigiformes,STRIGIDAE,Ninox,Ninox strenua,Powerful Owl,48,15.9,26.1,57.5,400.8,281.9,261.7,0,100,0,0,0,0,0,0
+Ninox_sumbaensis,Strigiformes,STRIGIDAE,Ninox,Ninox sumbaensis,Least Boobook,23.4,6.9,11.2,27.9,188.5,128.1,100,70,20,0,0,10,0,0,0
+Ninox_theomacha,Strigiformes,STRIGIDAE,Ninox,Ninox theomacha,Jungle Boobook,21.8,7.8,12,33.5,178.8,129.1,95,100,0,0,0,0,0,0,0
+Ninox_variegata,Strigiformes,STRIGIDAE,Ninox,Ninox variegata,Bismarck Boobook,26.8,8.8,14.4,39.2,208,150.4,130,100,0,0,0,0,0,0,0
+Otus_alfredi,Strigiformes,STRIGIDAE,Otus,Otus alfredi,Flores Scops-owl,20.5,6.7,9.4,23.9,152.1,106.2,75.6,90,10,0,0,0,0,0,0
+Otus_alius,Strigiformes,STRIGIDAE,Otus,Otus alius,Nicobar Scops-owl,21.9,5.1,10,22.9,135,94.1,89,50,0,50,0,0,0,0,0
+Otus_angelinae,Strigiformes,STRIGIDAE,Otus,Otus angelinae,Javan Scops-owl,24.3,7.1,12.9,31.7,163.8,122.3,77.5,90,0,10,0,0,0,0,0
+Otus_bakkamoena,Strigiformes,STRIGIDAE,Otus,Otus bakkamoena,Indian Scops-owl,20.5,6.2,10.9,30.5,146.2,106.5,75,80,10,10,0,0,0,0,0
+Otus_balli,Strigiformes,STRIGIDAE,Otus,Otus balli,Andaman Scops-owl,19.8,5.5,9.8,25,137.3,101,77.7,100,0,0,0,0,0,0,0
+Otus_beccarii,Strigiformes,STRIGIDAE,Otus,Otus beccarii,Biak Scops-owl,18.8,5.2,10.1,27.2,151.8,102.8,77.9,100,0,0,0,0,0,0,0
+Otus_brookii,Strigiformes,STRIGIDAE,Otus,Otus brookii,Rajah Scops-owl,24.3,7.1,12.9,31.7,163.8,122.3,77.5,100,0,0,0,0,0,0,0
+Otus_brucei,Strigiformes,STRIGIDAE,Otus,Otus brucei,Pallid Scops-owl,17.2,5.1,9,31.3,159,106,78.2,70,20,10,0,0,0,0,0
+Otus_capnodes,Strigiformes,STRIGIDAE,Otus,Otus capnodes,Anjouan Scops-owl,22.4,8.9,12.4,33.5,163,123.9,83.2,100,0,0,0,0,0,0,0
+Otus_collari,Strigiformes,STRIGIDAE,Otus,Otus collari,Sangihe Scops-owl,19.6,5.9,9.6,21.3,156.2,124.9,79.2,90,10,0,0,0,0,0,0
+Otus_elegans,Strigiformes,STRIGIDAE,Otus,Otus elegans,Ryukyu Scops-owl,20.3,6.2,11,28,169,110.3,74.7,80,20,0,0,0,0,0,0
+Otus_enganensis,Strigiformes,STRIGIDAE,Otus,Otus enganensis,Enggano Scops-owl,24.1,6,10.9,27.2,157.4,123.2,72,100,0,0,0,0,0,0,0
+Otus_everetti,Strigiformes,STRIGIDAE,Otus,Otus everetti,Mindanao Lowland Scops-owl,25.4,6.5,11.6,33.6,164,127.5,51.4,NA,NA,NA,NA,NA,NA,NA,NA
+Otus_feae,Strigiformes,STRIGIDAE,Otus,Otus feae,Annobon Scops-owl,17.6,6.9,9.8,25.7,128.5,102.2,62,NA,NA,NA,NA,NA,NA,NA,NA
+Otus_fuliginosus,Strigiformes,STRIGIDAE,Otus,Otus fuliginosus,Palawan Scops-owl,22.4,7.3,11.8,27.2,140.9,108.5,72.2,100,0,0,0,0,0,0,0
+Otus_gurneyi,Strigiformes,STRIGIDAE,Otus,Otus gurneyi,Giant Scops-owl,34.1,10.1,18.8,47.1,240.4,191,113.6,60,30,10,0,0,0,0,0
+Otus_hartlaubi,Strigiformes,STRIGIDAE,Otus,Otus hartlaubi,Sao Tome Scops-owl,19.8,5.1,10.7,29.1,153.4,112.9,81.6,90,0,10,0,0,0,0,0
+Otus_icterorhynchus,Strigiformes,STRIGIDAE,Otus,Otus icterorhynchus,Sandy Scops-owl,18.6,5.1,9.4,22,128.8,95.2,75.6,100,0,0,0,0,0,0,0
+Otus_insularis,Strigiformes,STRIGIDAE,Otus,Otus insularis,Seychelles Scops-owl,24.3,7.3,13.9,33.8,162.3,114.3,74.7,50,0,50,0,0,0,0,0
+Otus_ireneae,Strigiformes,STRIGIDAE,Otus,Otus ireneae,Sokoke Scops-owl,14,4.5,7.3,22.1,113.3,90.4,55.7,100,0,0,0,0,0,0,0
+Otus_jolandae,Strigiformes,STRIGIDAE,Otus,Otus jolandae,Rinjani Scops-owl,21,7.8,10.1,29.3,150,106.8,74,NA,NA,NA,NA,NA,NA,NA,NA
+Otus_lempiji,Strigiformes,STRIGIDAE,Otus,Otus lempiji,Sunda Scops-owl,25.3,6.9,11.4,27.4,144.7,112.4,69.1,90,10,0,0,0,0,0,0
+Otus_lettia,Strigiformes,STRIGIDAE,Otus,Otus lettia,Collared Scops-owl,21.2,6.6,10.6,33.8,155.8,116,81.2,80,10,10,0,0,0,0,0
+Otus_longicornis,Strigiformes,STRIGIDAE,Otus,Otus longicornis,Luzon Highland Scops-owl,19.1,4.8,11.4,30.2,143,99,72,100,0,0,0,0,0,0,0
+Otus_magicus,Strigiformes,STRIGIDAE,Otus,Otus magicus,Moluccan Scops-owl,21.8,7,11.8,34.4,160,123.2,76.9,90,0,0,0,10,0,0,0
+Otus_manadensis,Strigiformes,STRIGIDAE,Otus,Otus manadensis,Sulawesi Scops-owl,18.8,5.2,10.1,27.2,151.8,102.8,77.9,100,0,0,0,0,0,0,0
+Otus_mantananensis,Strigiformes,STRIGIDAE,Otus,Otus mantananensis,Mantanani Scops-owl,21.7,6.4,10.8,33.1,156.5,111.4,74.3,100,0,0,0,0,0,0,0
+Otus_mayottensis,Strigiformes,STRIGIDAE,Otus,Otus mayottensis,Mayotte Scops-owl,24.6,6.6,12.3,32.8,166.7,119.7,83.7,90,0,0,0,10,0,0,0
+Otus_megalotis,Strigiformes,STRIGIDAE,Otus,Otus megalotis,Luzon Lowland Scops-owl,24.6,8.4,13.5,40.5,179.2,140.4,85.7,100,0,0,0,0,0,0,0
+Otus_mendeni,Strigiformes,STRIGIDAE,Otus,Otus mendeni,Banggai Scops-owl,18.8,5.2,10.1,27.2,151.8,102.8,77.9,NA,NA,NA,NA,NA,NA,NA,NA
+Otus_mentawi,Strigiformes,STRIGIDAE,Otus,Otus mentawi,Mentawai Scops-owl,22.3,7.6,11.3,31.7,160,115.3,73,100,0,0,0,0,0,0,0
+Otus_mindorensis,Strigiformes,STRIGIDAE,Otus,Otus mindorensis,Mindoro Scops-owl,17.1,6,10.3,24.9,131,96.2,58,100,0,0,0,0,0,0,0
+Otus_mirus,Strigiformes,STRIGIDAE,Otus,Otus mirus,Mindanao Highland Scops-owl,19.1,4.8,11.4,30.2,143,99,72,90,10,0,0,0,0,0,0
+Otus_moheliensis,Strigiformes,STRIGIDAE,Otus,Otus moheliensis,Moheli Scops-owl,24.1,6.2,11,40.9,166,119.7,31.4,100,0,0,0,0,0,0,0
+Otus_nigrorum,Strigiformes,STRIGIDAE,Otus,Otus nigrorum,Visayan Scops-owl,21,6.6,11.5,34.2,143.8,109.5,63.2,NA,NA,NA,NA,NA,NA,NA,NA
+Otus_pamelae,Strigiformes,STRIGIDAE,Otus,Otus pamelae,Arabian Scops-owl,19.1,6,9.1,28,123.2,90,57,NA,NA,NA,NA,NA,NA,NA,NA
+Otus_pauliani,Strigiformes,STRIGIDAE,Otus,Otus pauliani,Grand Comoro Scops-owl,29.4,6,10.3,24.8,137,104.7,81.4,100,0,0,0,0,0,0,0
+Otus_pembaensis,Strigiformes,STRIGIDAE,Otus,Otus pembaensis,Pemba Scops-owl,20.8,6,11.3,26.8,144.8,102.5,74.8,100,0,0,0,0,0,0,0
+Otus_rufescens,Strigiformes,STRIGIDAE,Otus,Otus rufescens,Reddish Scops-owl,25.3,6.5,10.6,21.8,124.2,93.9,61,90,10,0,0,0,0,0,0
+Otus_rutilus,Strigiformes,STRIGIDAE,Otus,Otus rutilus,Madagascar Scops-owl,19.8,5.1,10.7,29.1,153.4,112.9,81.6,90,0,0,0,10,0,0,0
+Otus_sagittatus,Strigiformes,STRIGIDAE,Otus,Otus sagittatus,White-fronted Scops-owl,23.2,7.6,12,32.2,178,132.2,111.2,90,10,0,0,0,0,0,0
+Otus_scops,Strigiformes,STRIGIDAE,Otus,Otus scops,Eurasian Scops-owl,17.4,4.8,8.6,26.6,147.2,96.2,65.5,80,10,10,0,0,0,0,0
+Otus_semitorques,Strigiformes,STRIGIDAE,Otus,Otus semitorques,Japanese Scops-owl,22.3,6.9,12.1,37.2,178.4,122.8,89.6,70,20,10,0,0,0,0,0
+Otus_senegalensis,Strigiformes,STRIGIDAE,Otus,Otus senegalensis,African Scops-owl,17.7,5.1,9.2,24.3,132,96,61,90,0,10,0,0,0,0,0
+Otus_siaoensis,Strigiformes,STRIGIDAE,Otus,Otus siaoensis,Siau Scops-owl,18.8,5.2,10.1,27.2,151.8,102.8,77.9,90,0,0,0,10,0,0,0
+Otus_silvicola,Strigiformes,STRIGIDAE,Otus,Otus silvicola,Wallace's Scops-owl,29.9,10.6,12.9,37.8,216,166.3,100,90,10,0,0,0,0,0,0
+Otus_socotranus,Strigiformes,STRIGIDAE,Otus,Otus socotranus,Socotra Scops-owl,19.2,5.8,10.1,25.4,126.5,94.8,58.8,NA,NA,NA,NA,NA,NA,NA,NA
+Otus_spilocephalus,Strigiformes,STRIGIDAE,Otus,Otus spilocephalus,Mountain Scops-owl,17.9,5.1,9.2,28.4,140.4,105,76.8,80,20,0,0,0,0,0,0
+Otus_sulaensis,Strigiformes,STRIGIDAE,Otus,Otus sulaensis,Sula Scops-owl,22.7,5.2,10.1,27.2,157.5,102.8,78,NA,NA,NA,NA,NA,NA,NA,NA
+Otus_sunia,Strigiformes,STRIGIDAE,Otus,Otus sunia,Oriental Scops-owl,18.4,5.8,8.8,23.9,142.5,99.7,62,80,10,10,0,0,0,0,0
+Otus_tempestatis,Strigiformes,STRIGIDAE,Otus,Otus tempestatis,Wetar Scops-owl,20.8,7,11.8,34.4,146.4,123.2,80.2,NA,NA,NA,NA,NA,NA,NA,NA
+Otus_thilohoffmanni,Strigiformes,STRIGIDAE,Otus,Otus thilohoffmanni,Serendib Scops-owl,18.7,5.4,10.9,24.6,124.7,39.9,70.6,100,0,0,0,0,0,0,0
+Otus_umbra,Strigiformes,STRIGIDAE,Otus,Otus umbra,Simeulue Scops-owl,21.9,5.1,10,22.9,135,94.1,89,100,0,0,0,0,0,0,0
+Phodilus_assimilis,Strigiformes,TYTONIDAE,Phodilus,Phodilus assimilis,Sri Lanka Bay-owl,32.4,8.9,13.7,46.6,191.2,152.2,83,NA,NA,NA,NA,NA,NA,NA,NA
+Phodilus_badius,Strigiformes,TYTONIDAE,Phodilus,Phodilus badius,Oriental Bay-owl,35.2,9.8,14.3,36.2,190.8,147.1,80.4,20,40,40,0,0,0,0,0
+Phodilus_prigoginei,Strigiformes,TYTONIDAE,Phodilus,Phodilus prigoginei,Congo Bay-owl,27.8,6.7,12.9,36.2,190,160.4,102.6,20,40,40,0,0,0,0,0
+Pseudoscops_grammicus,Strigiformes,STRIGIDAE,Pseudoscops,Pseudoscops grammicus,Jamaican Owl,30.4,10.1,15.5,40.6,211.6,159.1,115.8,60,20,20,0,0,0,0,0
+Psiloscops_flammeolus,Strigiformes,STRIGIDAE,Psiloscops,Psiloscops flammeolus,Flammulated Owl,16.3,6,9.1,21.7,133,92,61.2,100,0,0,0,0,0,0,0
+Ptilopsis_granti,Strigiformes,STRIGIDAE,Ptilopsis,Ptilopsis granti,Southern White-faced Owl,26.3,8.1,12.7,36.4,202,141.2,94.6,60,20,20,0,0,0,0,0
+Ptilopsis_leucotis,Strigiformes,STRIGIDAE,Ptilopsis,Ptilopsis leucotis,Northern White-faced Owl,24.6,8.4,13,35.7,185.8,137.2,91,10,90,0,0,0,0,0,0
+Pulsatrix_koeniswaldiana,Strigiformes,STRIGIDAE,Pulsatrix,Pulsatrix koeniswaldiana,Tawny-browed Owl,38.8,9.7,20.5,47.1,316,234.7,192,30,60,0,0,10,0,0,0
+Pulsatrix_melanota,Strigiformes,STRIGIDAE,Pulsatrix,Pulsatrix melanota,Band-bellied Owl,35,10.4,16.6,43.5,276.2,193.5,174,20,70,10,0,0,0,0,0
+Pulsatrix_perspicillata,Strigiformes,STRIGIDAE,Pulsatrix,Pulsatrix perspicillata,Spectacled Owl,47.9,12.6,22.5,55.1,339.3,243,202.6,10,70,20,0,0,0,0,0
+Pyrroglaux_podargina,Strigiformes,STRIGIDAE,Pyrroglaux,Pyrroglaux podargina,Palau Owl,23,8.1,12.4,33.1,158,125.3,75.5,100,0,0,0,0,0,0,0
+Scotopelia_bouvieri,Strigiformes,STRIGIDAE,Scotopelia,Scotopelia bouvieri,Vermiculated Fishing-owl,36.9,10.6,16.6,55.8,294.8,236.4,162.2,20,10,30,40,0,0,0,0
+Scotopelia_peli,Strigiformes,STRIGIDAE,Scotopelia,Scotopelia peli,Pel's Fishing-owl,53.9,18.1,25,70.9,403.2,317.2,216.6,20,0,10,70,0,0,0,0
+Scotopelia_ussheri,Strigiformes,STRIGIDAE,Scotopelia,Scotopelia ussheri,Rufous Fishing-owl,44.6,14.9,20,61.1,324.5,256.2,180.5,0,0,0,100,0,0,0,0
+Strix_aluco,Strigiformes,STRIGIDAE,Strix,Strix aluco,Tawny Owl,30.4,8.2,15.2,46.4,264.8,187.1,171.1,10,80,10,0,0,0,0,0
+Strix_butleri,Strigiformes,STRIGIDAE,Strix,Strix butleri,Omani Owl,27.6,7.9,13.7,54.4,243,136.2,143,10,80,10,0,0,0,0,0
+Strix_chacoensis,Strigiformes,STRIGIDAE,Strix,Strix chacoensis,Chaco Owl,33.5,10.3,17.3,50.8,273.5,200.8,157.7,30,70,0,0,0,0,0,0
+Strix_fulvescens,Strigiformes,STRIGIDAE,Strix,Strix fulvescens,Fulvous Owl,36.2,11.2,18.3,54,304.2,210.5,174.7,20,60,20,0,0,0,0,0
+Strix_hadorami,Strigiformes,STRIGIDAE,Strix,Strix hadorami,Desert Tawny Owl,28.5,8.3,13.7,51.4,251,165.2,144,NA,NA,NA,NA,NA,NA,NA,NA
+Strix_hylophila,Strigiformes,STRIGIDAE,Strix,Strix hylophila,Rusty-barred Owl,27.7,9.9,15.7,46.2,242.1,188.4,152,30,70,0,0,0,0,0,0
+Strix_leptogrammica,Strigiformes,STRIGIDAE,Strix,Strix leptogrammica,Brown Wood-owl,42.3,11.4,18.6,40.2,313,224.3,157,10,80,10,0,0,0,0,0
+Strix_nebulosa,Strigiformes,STRIGIDAE,Strix,Strix nebulosa,Great Grey Owl,43.7,11.3,19.1,60,436,297,262.9,10,70,20,0,0,0,0,0
+Strix_nivicolum,Strigiformes,STRIGIDAE,Strix,Strix nivicolum,Himalayan Owl,32.7,8.6,15.3,54,291.5,196.9,163.2,NA,NA,NA,NA,NA,NA,NA,NA
+Strix_occidentalis,Strigiformes,STRIGIDAE,Strix,Strix occidentalis,Spotted Owl,36.9,10.6,16.6,57,320,214.4,190.4,10,80,10,0,0,0,0,0
+Strix_ocellata,Strigiformes,STRIGIDAE,Strix,Strix ocellata,Mottled Wood-owl,37.5,11.8,18.8,55.4,323.4,233.4,176.9,10,80,10,0,0,0,0,0
+Strix_rufipes,Strigiformes,STRIGIDAE,Strix,Strix rufipes,Rufous-legged Owl,32.7,9.7,14.8,52.3,258.5,180.8,146.5,0,100,0,0,0,0,0,0
+Strix_seloputo,Strigiformes,STRIGIDAE,Strix,Strix seloputo,Spotted Wood-owl,42.1,13.3,20.4,59.3,354.5,245.5,189.1,30,70,0,0,0,0,0,0
+Strix_uralensis,Strigiformes,STRIGIDAE,Strix,Strix uralensis,Ural Owl,38,10.7,18,50.8,352.8,249.5,259.8,10,90,0,0,0,0,0,0
+Strix_varia,Strigiformes,STRIGIDAE,Strix,Strix varia,Barred Owl,38.8,11.2,19.6,60.1,341.2,240.2,218.3,10,70,10,10,0,0,0,0
+Strix_woodfordii,Strigiformes,STRIGIDAE,Strix,Strix woodfordii,African Wood-owl,31.6,9.5,15.7,43.4,256.5,184.5,150,60,20,20,0,0,0,0,0
+Surnia_ulula,Strigiformes,STRIGIDAE,Surnia,Surnia ulula,Northern Hawk-owl,23.2,8.8,14.2,27.2,231.4,142,186.4,0,90,0,0,10,0,0,0
+Tyto_alba,Strigiformes,TYTONIDAE,Tyto,Tyto alba,Common Barn-owl,32,8.5,13.1,59.6,280.2,168.7,118.3,10,80,10,0,0,0,0,0
+Tyto_almae,Strigiformes,TYTONIDAE,Tyto,Tyto almae,Seram Masked-owl,29,7.3,12.8,53,213,147.9,83,0,100,0,0,0,0,0,0
+Tyto_aurantia,Strigiformes,TYTONIDAE,Tyto,Tyto aurantia,Golden Masked-owl,37.4,9.8,16.4,59,225.5,160.4,102.2,0,100,0,0,0,0,0,0
+Tyto_capensis,Strigiformes,TYTONIDAE,Tyto,Tyto capensis,African Grass-owl,36,7.9,13.5,76,299.5,170.2,117.8,10,80,10,0,0,0,0,0
+Tyto_glaucops,Strigiformes,TYTONIDAE,Tyto,Tyto glaucops,Ashy-faced Owl,34.2,9.2,15.3,61.7,251.7,165.5,121,0,90,10,0,0,0,0,0
+Tyto_inexspectata,Strigiformes,TYTONIDAE,Tyto,Tyto inexspectata,Minahassa Masked-owl,38.8,11.1,18.2,56.3,250.2,190.8,105.7,0,100,0,0,0,0,0,0
+Tyto_longimembris,Strigiformes,TYTONIDAE,Tyto,Tyto longimembris,Eastern Grass-owl,36.1,9.6,13.3,84.1,312.5,165.5,116.2,0,100,0,0,0,0,0,0
+Tyto_multipunctata,Strigiformes,TYTONIDAE,Tyto,Tyto multipunctata,Lesser Sooty-owl,37.6,11.7,18.2,56,235,211.9,117,NA,NA,NA,NA,NA,NA,NA,NA
+Tyto_nigrobrunnea,Strigiformes,TYTONIDAE,Tyto,Tyto nigrobrunnea,Taliabu Masked-owl,41,11.6,17.1,65,278,186,129,0,100,0,0,0,0,0,0
+Tyto_novaehollandiae,Strigiformes,TYTONIDAE,Tyto,Tyto novaehollandiae,Australian Masked-owl,37.2,9.6,16.4,65,298,176.1,124.1,10,80,10,0,0,0,0,0
+Tyto_rosenbergii,Strigiformes,TYTONIDAE,Tyto,Tyto rosenbergii,Sulawesi Masked-owl,38.9,11.4,17.6,67.3,310.2,190.8,135.2,0,100,0,0,0,0,0,0
+Tyto_soumagnei,Strigiformes,TYTONIDAE,Tyto,Tyto soumagnei,Madagascar Red Owl,31.7,7,12.2,55,210.2,151.5,100.5,0,100,0,0,0,0,0,0
+Tyto_tenebricosa,Strigiformes,TYTONIDAE,Tyto,Tyto tenebricosa,Greater Sooty-owl,41.5,12.4,18.9,75.3,275.4,200.6,133.8,0,100,0,0,0,0,0,0
+Uroglaux_dimorpha,Strigiformes,STRIGIDAE,Uroglaux,Uroglaux dimorpha,Papuan Boobook,27.3,10,14.2,35.1,208.5,147.6,130.8,50,50,0,0,0,0,0,0
+Xenoglaux_loweryi,Strigiformes,STRIGIDAE,Xenoglaux,Xenoglaux loweryi,Long-whiskered Owlet,14.6,6.2,9.6,20.1,103.5,73.7,54,100,0,0,0,0,0,0,0
